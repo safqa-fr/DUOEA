@@ -55,6 +55,13 @@
     "logo_list_Nm8JHL": {
       "type": "logo-list",
       "blocks": {
+        "logo_R8JkC4": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_khGgDQ": {
           "type": "logo",
           "settings": {
@@ -64,6 +71,7 @@
         }
       },
       "block_order": [
+        "logo_R8JkC4",
         "logo_khGgDQ"
       ],
       "name": "Logo list",
@@ -134,18 +142,6 @@
     "multi_column_L9KDG6": {
       "type": "multi-column",
       "blocks": {
-        "item_txGcM6": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_8bh9XJ": {
           "type": "item",
           "settings": {
@@ -172,7 +168,6 @@
         }
       },
       "block_order": [
-        "item_txGcM6",
         "item_8bh9XJ",
         "item_36Nk6w"
       ],
