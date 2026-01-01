@@ -49,7 +49,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 10
       }
     },
     "logo_list_Nm8JHL": {
@@ -58,45 +58,13 @@
         "logo_khGgDQ": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_WaqBnG": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_DBY7Et": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_VJ3GDy": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_J7dTGt": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
+            "logo_width": 300,
             "link": ""
           }
         }
       },
       "block_order": [
-        "logo_khGgDQ",
-        "logo_WaqBnG",
-        "logo_DBY7Et",
-        "logo_VJ3GDy",
-        "logo_J7dTGt"
+        "logo_khGgDQ"
       ],
       "name": "Logo list",
       "settings": {
@@ -105,7 +73,7 @@
         "title": "Logo list",
         "content": "",
         "text_alignment": "start",
-        "items_per_row": 5,
+        "items_per_row": 4,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -113,6 +81,54 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "multi_column_nGT68K": {
+      "type": "multi-column",
+      "blocks": {
+        "item_yWzVck": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DOUEA-avant.webp",
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ypYGKX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DOUEA-apres.webp",
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_yWzVck",
+        "item_ypYGKX"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_L9KDG6": {
@@ -172,29 +188,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "before_after_image_nQWKiM": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "multi_column_6gNnWr": {
@@ -545,8 +538,8 @@
   "order": [
     "image_with_text_overlay_zbKRxa",
     "logo_list_Nm8JHL",
+    "multi_column_nGT68K",
     "multi_column_L9KDG6",
-    "before_after_image_nQWKiM",
     "multi_column_6gNnWr",
     "multi_column_VFLqew",
     "featured_product_XmG9Gk",
