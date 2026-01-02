@@ -42,9 +42,10 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo_max_width": 125,
-        "logo_mobile_max_width": 100,
-        "menu": "main-menu",
+        "logo": "shopify://shop_images/DUOEA_sans_fond.png",
+        "logo_max_width": 300,
+        "logo_mobile_max_width": 170,
+        "menu": "",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",
