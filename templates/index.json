@@ -136,7 +136,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/DUOEA-benefits.webp",
-            "column_size": "1.5",
+            "column_size": "1",
             "title": "",
             "heading_tag": "h4",
             "content": "",
