@@ -129,27 +129,14 @@
         "logo_item_border": ""
       }
     },
-    "multi_column_nGT68K": {
+    "multi_column_H9YNxD": {
       "type": "multi-column",
       "blocks": {
-        "item_yWzVck": {
+        "item_99ELBm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/DOUEA-avant.webp",
-            "column_size": "2",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ypYGKX": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/DOUEA-apres.webp",
-            "column_size": "2",
+            "image": "shopify://shop_images/DUOEA-benefits.webp",
+            "column_size": "1.5",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -160,18 +147,17 @@
         }
       },
       "block_order": [
-        "item_yWzVck",
-        "item_ypYGKX"
+        "item_99ELBm"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Why Choose Duoéa ?",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -183,10 +169,11 @@
         "item_8bh9XJ": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "image": "shopify://shop_images/DOUEA-avant_078bd7fc-7c32-42a8-8317-33d0e4c319ea.webp",
+            "column_size": "2",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -195,10 +182,11 @@
         "item_36Nk6w": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "image": "shopify://shop_images/DOUEA-apres.webp",
+            "column_size": "2",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -214,10 +202,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Before & After Results",
+        "content": "<h4>Expert-Approved.<br/>We don’t make promises. We show real results.</h4>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -571,7 +559,7 @@
   "order": [
     "image_with_text_overlay_zbKRxa",
     "logo_list_Nm8JHL",
-    "multi_column_nGT68K",
+    "multi_column_H9YNxD",
     "multi_column_L9KDG6",
     "multi_column_6gNnWr",
     "multi_column_VFLqew",
