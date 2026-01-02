@@ -59,7 +59,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/asseenon.webp",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -67,7 +67,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Cosmopolitan.webp",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -75,7 +75,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/WomensHealth.webp",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -83,7 +83,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/BuzzFeed.webp",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -91,7 +91,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/GQ.webp",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -99,7 +99,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/MensHealth.webp",
-            "logo_width": 300,
+            "logo_width": 200,
             "link": ""
           }
         }
@@ -118,7 +118,7 @@
         "stack_mobile": true,
         "title": "",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 3,
         "background": "",
         "background_gradient": "",
