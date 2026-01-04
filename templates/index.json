@@ -494,6 +494,13 @@
     "faq_XmVLY9": {
       "type": "faq",
       "blocks": {
+        "item_zXGa9y": {
+          "type": "item",
+          "settings": {
+            "title": "How do I clean and maintain it ?",
+            "content": "<p>Super easy! The premium cover is machine-washable, and the water-resistant core wipes clean easily. It's designed for regular use and maintains its shape wash after wash.</p>"
+          }
+        },
         "item_ragTex": {
           "type": "item",
           "settings": {
@@ -524,6 +531,7 @@
         }
       },
       "block_order": [
+        "item_zXGa9y",
         "item_ragTex",
         "item_e4iVmf",
         "item_AdBVz3",
