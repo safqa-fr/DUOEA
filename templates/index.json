@@ -221,13 +221,25 @@
     "multi_column_6gNnWr": {
       "type": "multi-column",
       "blocks": {
+        "item_rRctVi": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "PERFECT ANGLE",
+            "heading_tag": "h4",
+            "content": "<p>The 27° lift raises the pelvis for greater control and overall staisfaction while aligning your body for maximum comfort</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_htKMMK": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "NO MORE PAIN",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Even pressure distribution eliminates hip and lower back pain that ruins the moment</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -237,21 +249,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "DOES THE WORK FOR YOU",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JHXrnw": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Self-positioning design means your body automatically finds the right spot without constant adjusting</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -259,19 +259,19 @@
         }
       },
       "block_order": [
+        "item_rRctVi",
         "item_htKMMK",
-        "item_AXTTFx",
-        "item_JHXrnw"
+        "item_AXTTFx"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "The Science Behind It",
+        "content": "<p>Developed withwomen's health experts, Duoéa uses precision engeering to optimizepelvic positionning for enhanced comfort and pleasure during intimacy.</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
