@@ -64,6 +64,65 @@
         "overlay_opacity": 10
       }
     },
+    "logo_list_KyHrAh": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_bJz7YD": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_3TRMtj": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/WomensHealth.webp",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_jkJ9wK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/GQ.webp",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_9z3Nf3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/BuzzFeed.webp",
+            "logo_width": 250,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_bJz7YD",
+        "logo_3TRMtj",
+        "logo_jkJ9wK",
+        "logo_9z3Nf3"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "As Seen On :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "custom_liquid_jgx7BV": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -83,7 +142,7 @@
         "item_99ELBm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Slim_Fitting_1.png",
+            "image": "shopify://shop_images/DUOEAbenefits.png",
             "column_size": "1",
             "title": "",
             "heading_tag": "h4",
@@ -117,7 +176,6 @@
         "item_8bh9XJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/DOUEA-avant_078bd7fc-7c32-42a8-8317-33d0e4c319ea.webp",
             "column_size": "2",
             "title": "",
             "heading_tag": "h4",
@@ -506,6 +564,7 @@
   },
   "order": [
     "image_with_text_overlay_zbKRxa",
+    "logo_list_KyHrAh",
     "custom_liquid_jgx7BV",
     "multi_column_H9YNxD",
     "multi_column_L9KDG6",
