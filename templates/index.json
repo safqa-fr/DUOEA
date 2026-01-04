@@ -15,8 +15,14 @@
         "heading_nNmDbi": {
           "type": "heading",
           "settings": {
-            "text": "The comfort that changes the experience. Because feeling truly supported makes all the difference.",
+            "text": "The comfort that changes the experience.",
             "heading_tag": "h1"
+          }
+        },
+        "subheading_HG6eWT": {
+          "type": "subheading",
+          "settings": {
+            "text": "Because feeling truly supported makes all the difference."
           }
         },
         "richtext_ctq7GC": {
@@ -39,6 +45,7 @@
       },
       "block_order": [
         "heading_nNmDbi",
+        "subheading_HG6eWT",
         "richtext_ctq7GC",
         "button_RiHrek"
       ],
