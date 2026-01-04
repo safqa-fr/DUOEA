@@ -71,7 +71,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_width": 250,
+            "logo_width": 120,
             "link": ""
           }
         },
@@ -79,7 +79,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/WomensHealth.webp",
-            "logo_width": 250,
+            "logo_width": 120,
             "link": ""
           }
         },
@@ -87,7 +87,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/GQ.webp",
-            "logo_width": 250,
+            "logo_width": 120,
             "link": ""
           }
         },
@@ -95,7 +95,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/BuzzFeed.webp",
-            "logo_width": 250,
+            "logo_width": 120,
             "link": ""
           }
         }
