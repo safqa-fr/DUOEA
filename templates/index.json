@@ -326,42 +326,46 @@
         "text_color": ""
       }
     },
-    "featured_product_XmG9Gk": {
+    "featured_product_z3QpdL": {
       "type": "featured-product",
       "blocks": {
-        "liquid_JPzU3R": {
+        "liquid_QxJL64": {
           "type": "liquid",
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-heart-color: #E24343;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\n    font-size: 14px;\n}\n\n.social-proof-slide__block-hearts {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-heart-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-heart {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-heart svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-heart-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-hearts\">\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Loved 4.9 by 1500+ Customers!\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
-        "title_VKTt4w": {
+        "vendor_fyWaVB": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_FTaeAC": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "badges_YX9TFf": {
+        "badges_YQBfQ6": {
           "type": "badges",
           "settings": {}
         },
-        "price_PQ9tCU": {
+        "price_yebrkk": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
           }
         },
-        "rating_ccDjYe": {
+        "rating_h9MWqU": {
           "type": "rating",
           "settings": {
             "show_empty": false
           }
         },
-        "separator_G6xRa4": {
+        "separator_npCfAm": {
           "type": "separator",
           "settings": {}
         },
-        "description_GhPcHz": {
+        "description_dT6VxV": {
           "type": "description",
           "settings": {
             "icon": "none",
@@ -369,7 +373,7 @@
             "collapse_content": false
           }
         },
-        "variant_picker_PWnThN": {
+        "variant_picker_ezfTaH": {
           "type": "variant_picker",
           "settings": {
             "hide_sold_out_variants": false,
@@ -380,11 +384,11 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_Ppfq97": {
+        "quantity_selector_a8QCzX": {
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy_buttons_Vcn7Dt": {
+        "buy_buttons_FLWVnU": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": true,
@@ -395,23 +399,24 @@
             "payment_button_text_color": ""
           }
         },
-        "pickup_availability_WNaG6w": {
+        "pickup_availability_YM968B": {
           "type": "pickup_availability",
           "settings": {}
         }
       },
       "block_order": [
-        "liquid_JPzU3R",
-        "title_VKTt4w",
-        "badges_YX9TFf",
-        "price_PQ9tCU",
-        "rating_ccDjYe",
-        "separator_G6xRa4",
-        "description_GhPcHz",
-        "variant_picker_PWnThN",
-        "quantity_selector_Ppfq97",
-        "buy_buttons_Vcn7Dt",
-        "pickup_availability_WNaG6w"
+        "liquid_QxJL64",
+        "vendor_fyWaVB",
+        "title_FTaeAC",
+        "badges_YQBfQ6",
+        "price_yebrkk",
+        "rating_h9MWqU",
+        "separator_npCfAm",
+        "description_dT6VxV",
+        "variant_picker_ezfTaH",
+        "quantity_selector_a8QCzX",
+        "buy_buttons_FLWVnU",
+        "pickup_availability_YM968B"
       ],
       "name": "Featured product",
       "settings": {
@@ -538,7 +543,7 @@
     "multi_column_L9KDG6",
     "multi_column_6gNnWr",
     "multi_column_VFLqew",
-    "featured_product_XmG9Gk",
+    "featured_product_z3QpdL",
     "faq_XmVLY9",
     "contact_LWmMLj"
   ]
