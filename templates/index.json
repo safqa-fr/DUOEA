@@ -176,6 +176,7 @@
         "item_8bh9XJ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/DOUEA-avant.webp",
             "column_size": "2",
             "title": "",
             "heading_tag": "h4",
