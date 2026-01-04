@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "",
             "url": ""
           }
         }
@@ -45,7 +45,7 @@
         "logo": "shopify://shop_images/DUOEA_sans_fond.png",
         "logo_max_width": 300,
         "logo_mobile_max_width": 170,
-        "menu": "",
+        "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",
