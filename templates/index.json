@@ -494,6 +494,13 @@
     "faq_XmVLY9": {
       "type": "faq",
       "blocks": {
+        "item_4PTzhQ": {
+          "type": "item",
+          "settings": {
+            "title": "What if I'm not satisfied with the results ?",
+            "content": "<p>We offer a 30-day satisfaction guarantee. If the pillow doesn't transform your comfort and experience as promised, return it for a full refund. We're that confident you'll love it.</p>"
+          }
+        },
         "item_zXGa9y": {
           "type": "item",
           "settings": {
@@ -531,6 +538,7 @@
         }
       },
       "block_order": [
+        "item_4PTzhQ",
         "item_zXGa9y",
         "item_ragTex",
         "item_e4iVmf",
