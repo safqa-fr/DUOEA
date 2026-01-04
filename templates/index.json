@@ -12,30 +12,35 @@
     "image_with_text_overlay_zbKRxa": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_pJ99nC": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_nNmDbi": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "The comfort that changes the experience. Because feeling truly supported makes all the difference.",
             "heading_tag": "h1"
           }
         },
-        "richtext_pKjrcg": {
+        "richtext_ctq7GC": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<ul><li>Less tension.</li><li>More ease.</li><li>More enjoyable moments.</li></ul>"
+          }
+        },
+        "button_RiHrek": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Button text",
+            "url": "",
+            "background": "",
+            "text_color": ""
           }
         }
       },
       "block_order": [
-        "subheading_pJ99nC",
         "heading_nNmDbi",
-        "richtext_pKjrcg"
+        "richtext_ctq7GC",
+        "button_RiHrek"
       ],
       "name": "Image with text overlay",
       "settings": {
