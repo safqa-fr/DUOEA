@@ -283,10 +283,11 @@
         "item_VDWm8N": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/Avis 1.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -295,10 +296,11 @@
         "item_YG7Whm": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/Avis 2.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -307,10 +309,11 @@
         "item_fBjDnr": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/Avis 3.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -327,10 +330,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "They say it better than we do",
+        "content": "<h4>⭐ <strong>4.8/5</strong> – Trusted by 13k+ Happy Couples</h4>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
