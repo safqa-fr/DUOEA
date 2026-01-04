@@ -119,7 +119,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#f4efea",
         "logo_item_border": ""
       }
     },
