@@ -205,6 +205,31 @@
         "text_color": ""
       }
     },
+    "before_after_image_W9q8Pt": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/DOUEA-avant.webp",
+        "after_image": "shopify://shop_images/DOUEA-apres.webp",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 100,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "multi_column_6gNnWr": {
       "type": "multi-column",
       "blocks": {
@@ -559,6 +584,7 @@
     "logo_list_KyHrAh",
     "multi_column_H9YNxD",
     "multi_column_L9KDG6",
+    "before_after_image_W9q8Pt",
     "multi_column_6gNnWr",
     "multi_column_VFLqew",
     "featured_product_z3QpdL",
