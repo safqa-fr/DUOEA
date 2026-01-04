@@ -497,22 +497,22 @@
         "item_e4iVmf": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "How is this different from regular pillows ?",
+            "content": "<p>Regular pillows compress and lose shape under pressure. Our Duoéa foam maintains perfect support even during dynamic movement, ensuring consistent angles every time.</p>"
           }
         },
         "item_AdBVz3": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Will this look obvious in my bedroom ?",
+            "content": "<p>Absolutely not. We specifically designed it to complement bedroom décor with elegant aesthetics. Many customers use it as an accent pillow when not in use - no one knows its true purpose.<br/><br/></p>"
           }
         },
         "item_6AGwgi": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "What if my partner thinks it's weird ?",
+            "content": "<p>Most partners are amazed by the increased comfort and support. We focus on wellness and physical comfort first - the intimacy benefits naturally follow. It's about removing barriers, not adding awkwardness.</p>"
           }
         }
       },
@@ -526,7 +526,7 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
