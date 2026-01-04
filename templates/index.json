@@ -38,7 +38,7 @@
             "size": "lg",
             "text": "Make the Move",
             "url": "",
-            "background": "",
+            "background": "#c97a5d",
             "text_color": ""
           }
         }
@@ -83,7 +83,7 @@
         "item_99ELBm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/DUOEA-benefits.webp",
+            "image": "shopify://shop_images/Slim_Fitting_1.png",
             "column_size": "1",
             "title": "",
             "heading_tag": "h4",
