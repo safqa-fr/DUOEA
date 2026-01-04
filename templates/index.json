@@ -84,9 +84,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Slim_Fitting_1.png",
-            "image_pos_x": 50,
-            "image_pos_y": 50,
-            "column_size": "0.75",
+            "column_size": "1",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -120,8 +118,6 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/DOUEA-avant_078bd7fc-7c32-42a8-8317-33d0e4c319ea.webp",
-            "image_pos_x": 50,
-            "image_pos_y": 35,
             "column_size": "2",
             "title": "",
             "heading_tag": "h4",
@@ -135,8 +131,6 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/DOUEA-apres.webp",
-            "image_pos_x": 50,
-            "image_pos_y": 35,
             "column_size": "2",
             "title": "",
             "heading_tag": "h4",
@@ -171,8 +165,6 @@
         "item_htKMMK": {
           "type": "item",
           "settings": {
-            "image_pos_x": 50,
-            "image_pos_y": 35,
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -185,8 +177,6 @@
         "item_AXTTFx": {
           "type": "item",
           "settings": {
-            "image_pos_x": 50,
-            "image_pos_y": 35,
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -199,8 +189,6 @@
         "item_JHXrnw": {
           "type": "item",
           "settings": {
-            "image_pos_x": 50,
-            "image_pos_y": 35,
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -236,8 +224,6 @@
         "item_VDWm8N": {
           "type": "item",
           "settings": {
-            "image_pos_x": 50,
-            "image_pos_y": 35,
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -250,8 +236,6 @@
         "item_YG7Whm": {
           "type": "item",
           "settings": {
-            "image_pos_x": 50,
-            "image_pos_y": 35,
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -264,8 +248,6 @@
         "item_fBjDnr": {
           "type": "item",
           "settings": {
-            "image_pos_x": 50,
-            "image_pos_y": 35,
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
