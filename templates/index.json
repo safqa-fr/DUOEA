@@ -482,16 +482,10 @@
     "multi_column_QM7eJq": {
       "type": "multi-column",
       "blocks": {
-        "item_FKBDyh": {
-          "type": "item",
+        "spacer_JLF7H6": {
+          "type": "spacer",
           "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "column_size": "3"
           }
         },
         "item_yFWhgA": {
@@ -506,31 +500,18 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_iHMAKV": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
-        "item_FKBDyh",
-        "item_yFWhgA",
-        "item_iHMAKV"
+        "spacer_JLF7H6",
+        "item_yFWhgA"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "",
         "content": "",
