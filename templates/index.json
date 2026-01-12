@@ -237,6 +237,7 @@
         "item_rRctVi": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/GIF.gif",
             "column_size": "3",
             "title": "PERFECT ANGLE",
             "heading_tag": "h4",
@@ -249,6 +250,7 @@
         "item_htKMMK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/GIF2_4790babf-a510-4048-a8c3-4ae3ac88f9e1.gif",
             "column_size": "3",
             "title": "NO MORE PAIN",
             "heading_tag": "h4",
@@ -261,49 +263,11 @@
         "item_AXTTFx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Video.gif",
             "column_size": "3",
             "title": "DOES THE WORK FOR YOU",
             "heading_tag": "h4",
             "content": "<p>Self-positioning design means your body automatically finds the right spot without constant adjusting</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_fkAYH4": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_WajWPf": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF2_4790babf-a510-4048-a8c3-4ae3ac88f9e1.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yBLcP4": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Video.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -313,10 +277,7 @@
       "block_order": [
         "item_rRctVi",
         "item_htKMMK",
-        "item_AXTTFx",
-        "item_fkAYH4",
-        "item_WajWPf",
-        "item_yBLcP4"
+        "item_AXTTFx"
       ],
       "name": "Multi-column",
       "settings": {
