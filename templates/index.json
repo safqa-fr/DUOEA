@@ -225,8 +225,8 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
+        "before_text_color": "#5a514b",
+        "after_text_color": "#5a514b",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
