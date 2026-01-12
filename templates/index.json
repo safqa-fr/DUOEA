@@ -212,6 +212,8 @@
         "subheading": "",
         "title": "Before & After Results",
         "content": "",
+        "after_image": "shopify://shop_images/after_web.png",
+        "after_image_mobile": "shopify://shop_images/after_mobile.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",
