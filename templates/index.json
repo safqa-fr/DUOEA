@@ -295,19 +295,6 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_axpFMe": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF3.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
@@ -315,8 +302,7 @@
         "item_htKMMK",
         "item_AXTTFx",
         "item_WajWPf",
-        "item_yBLcP4",
-        "item_axpFMe"
+        "item_yBLcP4"
       ],
       "name": "Multi-column",
       "settings": {
