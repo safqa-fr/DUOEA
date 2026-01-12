@@ -42,7 +42,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/X-Pillow_sans_fond.png",
+        "logo": "shopify://shop_images/X-Pillow_transparent.png",
         "logo_max_width": 150,
         "logo_mobile_max_width": 80,
         "menu": "main-menu",
@@ -50,7 +50,7 @@
         "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "bottom",
-        "layout": "drawer",
+        "layout": "logo_left_navigation_center",
         "show_social_media": true,
         "show_locale_selector": true,
         "show_country_selector": true,
