@@ -265,33 +265,12 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "spacer_mLFKML": {
-          "type": "spacer",
-          "settings": {
-            "column_size": "3"
-          }
-        },
-        "item_MX3Udm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Video.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_rRctVi",
         "item_htKMMK",
-        "item_AXTTFx",
-        "spacer_mLFKML",
-        "item_MX3Udm"
+        "item_AXTTFx"
       ],
       "name": "Multi-column",
       "settings": {
@@ -498,6 +477,66 @@
         "input_text_color": ""
       }
     },
+    "multi_column_QM7eJq": {
+      "type": "multi-column",
+      "blocks": {
+        "item_FKBDyh": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yFWhgA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Video.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_iHMAKV": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_FKBDyh",
+        "item_yFWhgA",
+        "item_iHMAKV"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_XmVLY9": {
       "type": "faq",
       "blocks": {
@@ -606,6 +645,7 @@
     "multi_column_6gNnWr",
     "multi_column_VFLqew",
     "featured_product_z3QpdL",
+    "multi_column_QM7eJq",
     "faq_XmVLY9",
     "contact_LWmMLj"
   ]
