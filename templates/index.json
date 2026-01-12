@@ -481,47 +481,6 @@
         "input_text_color": ""
       }
     },
-    "multi_column_QM7eJq": {
-      "type": "multi-column",
-      "blocks": {
-        "spacer_JLF7H6": {
-          "type": "spacer",
-          "settings": {
-            "column_size": "3"
-          }
-        },
-        "item_yFWhgA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Video.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "spacer_JLF7H6",
-        "item_yFWhgA"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "faq_XmVLY9": {
       "type": "faq",
       "blocks": {
@@ -630,7 +589,6 @@
     "multi_column_6gNnWr",
     "multi_column_VFLqew",
     "featured_product_z3QpdL",
-    "multi_column_QM7eJq",
     "faq_XmVLY9",
     "contact_LWmMLj"
   ]
