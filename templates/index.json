@@ -265,12 +265,33 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "spacer_mLFKML": {
+          "type": "spacer",
+          "settings": {
+            "column_size": "3"
+          }
+        },
+        "item_MX3Udm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Video.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_rRctVi",
         "item_htKMMK",
-        "item_AXTTFx"
+        "item_AXTTFx",
+        "spacer_mLFKML",
+        "item_MX3Udm"
       ],
       "name": "Multi-column",
       "settings": {
