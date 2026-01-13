@@ -498,16 +498,24 @@
         "tab_Y89wcX": {
           "type": "tab",
           "settings": {
-            "title": "Essayez le 30 jours gratuitement",
-            "content": "<p>Essayez le xPillow pour de meilleure moment intimes avec votre partenaire.</p>",
+            "title": "Try it risk-free for 30 days",
+            "content": "<p>Try the xPillow risk-free <strong>for 30 day</strong>s. If you are not completely satisfied with your xPillow, <strong>you may return it for a full refund</strong>.</p>",
             "page": ""
           }
         },
         "tab_z9ccFY": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Free Delivery to Your Door",
+            "content": "<p><strong>Free home delivery is included. </strong>Depending on the volume of orders being processed, delivery is estimated between <strong>5 and 7 business days</strong>.<br/></p>",
+            "page": ""
+          }
+        },
+        "tab_A8K8VN": {
+          "type": "tab",
+          "settings": {
+            "title": "7-day customer support",
+            "content": "<p>Our team is available to answer your questions seven days a week.</p><p>You can contact us by email during the following hours: <strong>Monday to Friday from 9:00 a.m. to 12:00 p.m. and from 2:00 p.m. to 6:00 p.m., and Saturday and Sunday from 10:00 a.m. to 12:00 p.m. </strong></p><p>Feel free to get in touch with us.</p>",
             "page": ""
           }
         }
@@ -515,7 +523,8 @@
       "block_order": [
         "tab_WHe6yf",
         "tab_Y89wcX",
-        "tab_z9ccFY"
+        "tab_z9ccFY",
+        "tab_A8K8VN"
       ],
       "name": "Tabs",
       "settings": {
