@@ -110,7 +110,7 @@
           "settings": {
             "title": "Contact Us",
             "content": "<p><strong>Customer Service:</strong><br/><a>hello@xpillow.com</a></p><p><strong>Business Hours:</strong><br/>Monday to Friday: 9:00 a.m. – 12:00 p.m. and 2:00 p.m. – 6:00 p.m.<br/>Saturday and Sunday: 10:00 a.m. – 12:00 p.m.</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
