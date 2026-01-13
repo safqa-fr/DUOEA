@@ -428,7 +428,7 @@
         "buy_buttons_FLWVnU": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -482,6 +482,54 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "tabs_bwCTBc": {
+      "type": "tabs",
+      "blocks": {
+        "tab_WHe6yf": {
+          "type": "tab",
+          "settings": {
+            "title": "Product Features – Ergonomic Multi-Position Pillow",
+            "content": "<h3><strong>Ergonomic Design & Angle</strong></h3><ul><li>Unique <strong>27° optimized incline</strong> designed to support natural body positioning<br/></li><li>Ergonomic <strong>wedge-shaped design</strong> for stable, balanced support<br/></li><li>Helps maintain a comfortable angle without slipping or collapsing<br/></li></ul><h3><strong>Foam & Support</strong></h3><ul><li><strong>High-density memory foam core</strong> for firm yet comfortable support<br/></li><li>Contours to the body while maintaining its shape<br/></li><li>Designed to resist sagging, even with repeated use<br/></li></ul><h3><strong>Comfort & Materials</strong></h3><ul><li><strong>Premium soft-touch cover</strong>, breathable and skin-friendly<br/></li><li><strong>Removable, machine-washable cover</strong> for easy care<br/></li><li><strong>Non-slip base</strong> to keep the pillow securely in place<br/></li></ul><h3><strong>Design & Practical Details</strong></h3><ul><li>Discreet, modern design that blends easily into any bedroom<br/></li><li><strong>Integrated side handles</strong> for easy repositioning<br/></li><li>Carefully sized to provide support without being bulky<br/></li></ul><h3><strong>Versatility & Use</strong></h3><ul><li>Suitable for lying or semi-seated positions<br/></li><li>Can be used as a <strong>back, waist, or hip support pillow</strong><br/></li><li>Ideal for relaxation, comfort, and positioning support<br/></li><li>Suitable for different body types<br/></li></ul><h3><strong>Quality & Safety</strong></h3><ul><li>Made from <strong>non-toxic, durable materials</strong><br/></li><li>Designed for <strong>long-lasting comfort and structural stability</strong><br/></li><li>Comfort product – <strong>non-medical use</strong></li></ul>",
+            "page": ""
+          }
+        },
+        "tab_Y89wcX": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez le 30 jours gratuitement",
+            "content": "<p>Essayez le xPillow pour de meilleure moment intimes avec votre partenaire.</p>",
+            "page": ""
+          }
+        },
+        "tab_z9ccFY": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_WHe6yf",
+        "tab_Y89wcX",
+        "tab_z9ccFY"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "faq_XmVLY9": {
@@ -584,6 +632,7 @@
     "multi_column_6gNnWr",
     "multi_column_VFLqew",
     "featured_product_z3QpdL",
+    "tabs_bwCTBc",
     "faq_XmVLY9",
     "contact_LWmMLj"
   ]
