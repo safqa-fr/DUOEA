@@ -14,15 +14,39 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_wcX8pR": {
+          "type": "message",
+          "settings": {
+            "text": "End-of-Year Limited Offer – 50% OFF",
+            "url": ""
+          }
+        },
+        "message_Yg7Jy6": {
+          "type": "message",
+          "settings": {
+            "text": "100% Secure Payment",
+            "url": ""
+          }
+        },
+        "message_cbMkaC": {
+          "type": "message",
+          "settings": {
+            "text": "30-Day Money-Back Guarantee",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "",
+            "text": "Free Shipping",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_wcX8pR",
+        "message_Yg7Jy6",
+        "message_cbMkaC",
         "message"
       ],
       "settings": {
