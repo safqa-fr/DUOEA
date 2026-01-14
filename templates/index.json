@@ -37,7 +37,7 @@
             "style": "fill",
             "size": "lg",
             "text": "Make the Move",
-            "url": "shopify://products/duoea-sweet-spot-pillow",
+            "url": "shopify://products/xpillow-sweet-spot-pillow",
             "background": "#c97a5d",
             "text_color": ""
           }
@@ -476,7 +476,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "duoea-sweet-spot-pillow",
+        "product": "xpillow-sweet-spot-pillow",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
