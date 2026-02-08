@@ -19,10 +19,11 @@
             "heading_tag": "h1"
           }
         },
-        "subheading_HG6eWT": {
-          "type": "subheading",
+        "heading_jQfaF3": {
+          "type": "heading",
           "settings": {
-            "text": "Because feeling truly supported makes all the difference."
+            "text": "Because feeling truly supported makes all the difference.",
+            "heading_tag": "h4"
           }
         },
         "richtext_ctq7GC": {
@@ -45,7 +46,7 @@
       },
       "block_order": [
         "heading_nNmDbi",
-        "subheading_HG6eWT",
+        "heading_jQfaF3",
         "richtext_ctq7GC",
         "button_RiHrek"
       ],
