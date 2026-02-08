@@ -523,6 +523,68 @@
         "text_color": ""
       }
     },
+    "multi_column_ndYM6F": {
+      "type": "multi-column",
+      "blocks": {
+        "item_jqYKqq": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 5.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8egkgY": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 3.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jp6zxY": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 6.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_jqYKqq",
+        "item_8egkgY",
+        "item_jp6zxY"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_bwCTBc": {
       "type": "tabs",
       "blocks": {
@@ -681,6 +743,7 @@
     "multi_column_VFLqew",
     "featured_product_z3QpdL",
     "17685047346a490066",
+    "multi_column_ndYM6F",
     "tabs_bwCTBc",
     "faq_XmVLY9",
     "contact_LWmMLj"
