@@ -393,12 +393,6 @@
             "text": "<p>Year-End Special Offer - 50% OFF 🎁</p>"
           }
         },
-        "rating_Ygc4AP": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator_npCfAm": {
           "type": "separator",
           "settings": {}
@@ -464,7 +458,6 @@
         "price_yebrkk",
         "liquid_w63nXc",
         "text_NNfQeC",
-        "rating_Ygc4AP",
         "separator_npCfAm",
         "description_dT6VxV",
         "variant_picker_ezfTaH",
