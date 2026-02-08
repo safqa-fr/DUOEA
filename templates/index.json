@@ -335,46 +335,18 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_miYYRj": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 5.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_fBjDnr": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 3.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_LaVaQm",
         "item_YG7Whm",
-        "item_VDWm8N",
-        "item_miYYRj",
-        "item_fBjDnr"
+        "item_VDWm8N"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "They say it better than we do",
