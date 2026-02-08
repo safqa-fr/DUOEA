@@ -297,10 +297,10 @@
     "multi_column_VFLqew": {
       "type": "multi-column",
       "blocks": {
-        "item_VDWm8N": {
+        "item_LaVaQm": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/Avis 1.mp4",
+            "video": "shopify://files/videos/Avis 4.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -314,6 +314,32 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/Avis 2.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VDWm8N": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 1.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_miYYRj": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 5.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -338,8 +364,10 @@
         }
       },
       "block_order": [
-        "item_VDWm8N",
+        "item_LaVaQm",
         "item_YG7Whm",
+        "item_VDWm8N",
+        "item_miYYRj",
         "item_fBjDnr"
       ],
       "name": "Multi-column",
