@@ -389,16 +389,15 @@
             "text": "<p>Don’t Let Discomfort Get in the Way Again.</p>"
           }
         },
-        "button_k9cfMh": {
-          "type": "button",
+        "buy_buttons_8zdr8A": {
+          "type": "buy_buttons",
           "settings": {
-            "link": "shopify://products/xpillow-sweet-spot-pillow",
-            "text": "Try It Risk-Free Tonight",
-            "size": "xl",
-            "style": "fill",
-            "stretch": true,
-            "background": "",
-            "text_color": ""
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
           }
         },
         "quantity_selector_a8QCzX": {
@@ -435,7 +434,7 @@
         "description_dT6VxV",
         "variant_picker_ezfTaH",
         "text_h7HJff",
-        "button_k9cfMh",
+        "buy_buttons_8zdr8A",
         "quantity_selector_a8QCzX",
         "text_NNfQeC",
         "image_DPg4pr",
