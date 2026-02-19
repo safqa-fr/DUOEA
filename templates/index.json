@@ -120,8 +120,8 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "logo_item_background": "#ffffff",
+        "logo_item_border": "rgba(0,0,0,0)"
       }
     },
     "featured_product_z3QpdL": {
