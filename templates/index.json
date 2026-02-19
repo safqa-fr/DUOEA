@@ -124,6 +124,67 @@
         "logo_item_border": "rgba(0,0,0,0)"
       }
     },
+    "multi_column_H9YNxD": {
+      "type": "multi-column",
+      "blocks": {
+        "item_99ELBm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/xPillow_benefits.png",
+            "column_size": "1",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_99ELBm"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Why Choose xPillow ?",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "before_after_image_W9q8Pt": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before & After Results",
+        "content": "",
+        "before_image": "shopify://shop_images/before_xpillow.png",
+        "before_image_mobile": "shopify://shop_images/before_xpillow.png",
+        "after_image": "shopify://shop_images/after_xpillow.png",
+        "after_image_mobile": "shopify://shop_images/after_xpillow.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 90,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#5a514b",
+        "after_text_color": "#5a514b",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "featured_product_z3QpdL": {
       "type": "featured-product",
       "blocks": {
@@ -383,40 +444,6 @@
         "text_color": ""
       }
     },
-    "multi_column_H9YNxD": {
-      "type": "multi-column",
-      "blocks": {
-        "item_99ELBm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/xPillow_benefits.png",
-            "column_size": "1",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_99ELBm"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Why Choose xPillow ?",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_L9KDG6": {
       "type": "multi-column",
       "blocks": {
@@ -462,33 +489,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "before_after_image_W9q8Pt": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "When Support Changes, Everything Changes.",
-        "content": "",
-        "before_image": "shopify://shop_images/before_xpillow.png",
-        "before_image_mobile": "shopify://shop_images/before_xpillow.png",
-        "after_image": "shopify://shop_images/after_xpillow.png",
-        "after_image_mobile": "shopify://shop_images/after_xpillow.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 90,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#5a514b",
-        "after_text_color": "#5a514b",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "multi_column_9kmceH": {
@@ -794,12 +794,12 @@
   "order": [
     "image_with_text_overlay_zbKRxa",
     "logo_list_bGckkC",
+    "multi_column_H9YNxD",
+    "before_after_image_W9q8Pt",
     "featured_product_z3QpdL",
     "multi_column_VFLqew",
     "multi_column_UBNrmn",
-    "multi_column_H9YNxD",
     "multi_column_L9KDG6",
-    "before_after_image_W9q8Pt",
     "multi_column_9kmceH",
     "multi_column_6gNnWr",
     "17685047346a490066",
