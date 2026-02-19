@@ -65,6 +65,65 @@
         "overlay_opacity": 10
       }
     },
+    "logo_list_bGckkC": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_qjyajJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_LDYPVK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Womens-Health-logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Mixxze": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_MXLjkU": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_qjyajJ",
+        "logo_LDYPVK",
+        "logo_Mixxze",
+        "logo_MXLjkU"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Seen on:",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "featured_product_z3QpdL": {
       "type": "featured-product",
       "blocks": {
@@ -734,6 +793,7 @@
   },
   "order": [
     "image_with_text_overlay_zbKRxa",
+    "logo_list_bGckkC",
     "featured_product_z3QpdL",
     "multi_column_VFLqew",
     "multi_column_UBNrmn",
