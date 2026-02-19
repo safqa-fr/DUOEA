@@ -65,63 +65,203 @@
         "overlay_opacity": 10
       }
     },
-    "logo_list_KyHrAh": {
-      "type": "logo-list",
+    "featured_product_z3QpdL": {
+      "type": "featured-product",
       "blocks": {
-        "logo_bJz7YD": {
-          "type": "logo",
+        "liquid_kzAgck": {
+          "type": "liquid",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_width": 300,
-            "link": ""
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-heart-color: #E24343;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\n    font-size: 14px;\n}\n\n.social-proof-slide__block-hearts {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-heart-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-heart {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-heart svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-heart-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-hearts\">\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Loved by 13,000+ Couples Across the U.S.\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
-        "logo_3TRMtj": {
-          "type": "logo",
+        "title_FTaeAC": {
+          "type": "title",
           "settings": {
-            "logo": "shopify://shop_images/Womens-Health-logo.png",
-            "logo_width": 300,
-            "link": ""
+            "heading_tag": "h2"
           }
         },
-        "logo_jkJ9wK": {
-          "type": "logo",
+        "badges_YQBfQ6": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_yebrkk": {
+          "type": "price",
           "settings": {
-            "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
-            "logo_width": 200,
-            "link": ""
+            "show_taxes_notice": false
           }
         },
-        "logo_9z3Nf3": {
-          "type": "logo",
+        "liquid_w63nXc": {
+          "type": "liquid",
           "settings": {
-            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
-            "logo_width": 300,
-            "link": ""
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge</title>\n<style>\n.unique-body-abc123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n  transform: scale(0.8); /* Tüm bileşenleri orantılı küçültme */\n}\n\n.unique-badge-def456 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 3px 5px; /* Küçültülmüş padding */\n  border-radius: 5px; /* Orantılı yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-flame-icon-ghi789, .unique-clock-icon-jkl012 {\n  margin-right: 4px; /* Küçültülmüş boşluk */\n  display: inline-block;\n  position: relative;\n  vertical-align: middle;\n}\n\n.unique-flame-icon-ghi789 svg, .unique-clock-icon-jkl012 svg {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n}\n\n.unique-flame-icon-ghi789 svg {\n  animation: unique-flame-animation-mno345 2s infinite;\n}\n\n.unique-clock-icon-jkl012 svg {\n  animation: unique-clock-animation-pqr678 2s infinite;\n}\n\n@keyframes unique-flame-animation-mno345 {\n  0%, 100% {\n    transform: scale(1);\n  }\n  50% {\n    transform: scale(1.2);\n  }\n}\n\n@keyframes unique-clock-animation-pqr678 {\n  0%, 100% {\n    transform: rotate(0deg);\n  }\n  50% {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-badge-def456 span {\n  display: flex;\n  align-items: center;\n}\n</style>\n</head>\n<body class=\"unique-body-abc123\">\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-flame-icon-ghi789\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill=\"#FF4500\" d=\"M32 2C19 15 9 26 9 38c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14s-14 6-14 14c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14S18 22 18 30c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14z\"/>\n      </svg>\n    </div>\n    8 items left at this price\n  </span>\n</div>\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-clock-icon-jkl012\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"32\" cy=\"32\" r=\"30\" stroke=\"#b22222\" stroke-width=\"4\" fill=\"none\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"4\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#b22222\" stroke-width=\"4\"/>\n      </svg>\n    </div>\n    Limited stock available!\n  </span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "text_EqzCPU": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Why Couples Feel the Difference</h4><p>✓ Precision 27° design for effortless positioning<br/><br/>✓ Helps reduce pressure & awkward adjustments<br/><br/>✓ Makes every movement feel smoother & more natural<br/><br/>✓ 30-Night Risk-Free Trial — Try It With Confidence</p>"
+          }
+        },
+        "separator_npCfAm": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_dT6VxV": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_ezfTaH": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "text_h7HJff": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ready to Feel the Difference?</p>"
+          }
+        },
+        "button_k9cfMh": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://products/xpillow-sweet-spot-pillow",
+            "text": "Try It Risk-Free Tonight",
+            "size": "xl",
+            "style": "fill",
+            "stretch": true,
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "quantity_selector_a8QCzX": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "text_NNfQeC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✔ Designed with expert-backed alignment<br/>✔ High-density ergonomic support<br/>✔ Trusted by 13,000+ Couples in the U.S.</p>"
+          }
+        },
+        "image_DPg4pr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_21_18_08-Photoroom_430x_e34f231c-fc72-4563-b697-cab66f87391c.avif",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "pickup_availability_jcxXhi": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_kzAgck",
+        "title_FTaeAC",
+        "badges_YQBfQ6",
+        "price_yebrkk",
+        "liquid_w63nXc",
+        "text_EqzCPU",
+        "separator_npCfAm",
+        "description_dT6VxV",
+        "variant_picker_ezfTaH",
+        "text_h7HJff",
+        "button_k9cfMh",
+        "quantity_selector_a8QCzX",
+        "text_NNfQeC",
+        "image_DPg4pr",
+        "pickup_availability_jcxXhi"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "xpillow-sweet-spot-pillow",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "multi_column_VFLqew": {
+      "type": "multi-column",
+      "blocks": {
+        "item_LaVaQm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 4.mp4",
+            "column_size": "3",
+            "title": "⭐⭐⭐⭐⭐“We thought the spark was fading.”– Emily R., Texas",
+            "heading_tag": "h4",
+            "content": "<p>“We honestly thought it was just routine. We were tired, stressed, and everything felt a little awkward. This pillow completely changed how natural everything feels. It’s subtle — but it makes such a difference. We actually feel closer again.”<br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YG7Whm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 2.mp4",
+            "column_size": "3",
+            "title": "⭐⭐⭐⭐⭐– Rachel S., Illinois",
+            "heading_tag": "h4",
+            "content": "<p>“The support is solid but comfortable. No pressure on the lower back. We can actually relax.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VDWm8N": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 1.mp4",
+            "column_size": "3",
+            "title": "⭐⭐⭐⭐⭐“Comfort was the missing piece.”– Lauren & Mike, Florida",
+            "heading_tag": "h4",
+            "content": "<p>“We never realized discomfort was getting in the way. Once we tried this, everything felt smoother and more connected. It’s honestly something every couple should try.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "logo_bJz7YD",
-        "logo_3TRMtj",
-        "logo_jkJ9wK",
-        "logo_9z3Nf3"
+        "item_LaVaQm",
+        "item_YG7Whm",
+        "item_VDWm8N"
       ],
-      "name": "Logo list",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "title": "",
-        "content": "",
+        "stack_on_mobile": false,
+        "gap": "small",
         "text_alignment": "center",
-        "items_per_row": 5,
+        "subheading": "",
+        "title": "They say it better than we do",
+        "content": "<h4>⭐ 4.8/5 – Trusted by 13k+ Happy Couples</h4>",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": ""
+        "text_color": ""
       }
     },
     "multi_column_UBNrmn": {
@@ -353,205 +493,6 @@
         "text_color": ""
       }
     },
-    "multi_column_VFLqew": {
-      "type": "multi-column",
-      "blocks": {
-        "item_LaVaQm": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 4.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YG7Whm": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 2.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VDWm8N": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 1.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_LaVaQm",
-        "item_YG7Whm",
-        "item_VDWm8N"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "They say it better than we do",
-        "content": "<h4>⭐ 4.8/5 – Trusted by 13k+ Happy Couples</h4>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "featured_product_z3QpdL": {
-      "type": "featured-product",
-      "blocks": {
-        "liquid_kzAgck": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-heart-color: #E24343;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\n    font-size: 14px;\n}\n\n.social-proof-slide__block-hearts {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-heart-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-heart {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-heart svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-heart-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-hearts\">\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Loved by 13,000+ Couples Across the U.S.\n  </span>\n</div>\n\n</body>\n</html>"
-          }
-        },
-        "title_FTaeAC": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges_YQBfQ6": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_yebrkk": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "liquid_w63nXc": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge</title>\n<style>\n.unique-body-abc123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n  transform: scale(0.8); /* Tüm bileşenleri orantılı küçültme */\n}\n\n.unique-badge-def456 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 3px 5px; /* Küçültülmüş padding */\n  border-radius: 5px; /* Orantılı yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-flame-icon-ghi789, .unique-clock-icon-jkl012 {\n  margin-right: 4px; /* Küçültülmüş boşluk */\n  display: inline-block;\n  position: relative;\n  vertical-align: middle;\n}\n\n.unique-flame-icon-ghi789 svg, .unique-clock-icon-jkl012 svg {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n}\n\n.unique-flame-icon-ghi789 svg {\n  animation: unique-flame-animation-mno345 2s infinite;\n}\n\n.unique-clock-icon-jkl012 svg {\n  animation: unique-clock-animation-pqr678 2s infinite;\n}\n\n@keyframes unique-flame-animation-mno345 {\n  0%, 100% {\n    transform: scale(1);\n  }\n  50% {\n    transform: scale(1.2);\n  }\n}\n\n@keyframes unique-clock-animation-pqr678 {\n  0%, 100% {\n    transform: rotate(0deg);\n  }\n  50% {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-badge-def456 span {\n  display: flex;\n  align-items: center;\n}\n</style>\n</head>\n<body class=\"unique-body-abc123\">\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-flame-icon-ghi789\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill=\"#FF4500\" d=\"M32 2C19 15 9 26 9 38c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14s-14 6-14 14c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14S18 22 18 30c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14z\"/>\n      </svg>\n    </div>\n    8 items left at this price\n  </span>\n</div>\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-clock-icon-jkl012\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"32\" cy=\"32\" r=\"30\" stroke=\"#b22222\" stroke-width=\"4\" fill=\"none\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"4\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#b22222\" stroke-width=\"4\"/>\n      </svg>\n    </div>\n    Limited stock available!\n  </span>\n</div>\n\n</body>\n</html>"
-          }
-        },
-        "text_EqzCPU": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>Why Couples Feel the Difference</h4><p>✓ Precision 27° design for effortless positioning<br/><br/>✓ Helps reduce pressure & awkward adjustments<br/><br/>✓ Makes every movement feel smoother & more natural<br/><br/>✓ 30-Night Risk-Free Trial — Try It With Confidence</p>"
-          }
-        },
-        "separator_npCfAm": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_dT6VxV": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
-        "variant_picker_ezfTaH": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "text_h7HJff": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Ready to Feel the Difference?</p>"
-          }
-        },
-        "button_k9cfMh": {
-          "type": "button",
-          "settings": {
-            "link": "shopify://products/xpillow-sweet-spot-pillow",
-            "text": "Try It Risk-Free Tonight",
-            "size": "xl",
-            "style": "fill",
-            "stretch": true,
-            "background": "",
-            "text_color": ""
-          }
-        },
-        "quantity_selector_a8QCzX": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "text_NNfQeC": {
-          "type": "text",
-          "settings": {
-            "text": "<p>✔ Designed with expert-backed alignment<br/>✔ High-density ergonomic support<br/>✔ Trusted by 13,000+ Couples in the U.S.</p>"
-          }
-        },
-        "image_DPg4pr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_21_18_08-Photoroom_430x_e34f231c-fc72-4563-b697-cab66f87391c.avif",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "pickup_availability_jcxXhi": {
-          "type": "pickup_availability",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "liquid_kzAgck",
-        "title_FTaeAC",
-        "badges_YQBfQ6",
-        "price_yebrkk",
-        "liquid_w63nXc",
-        "text_EqzCPU",
-        "separator_npCfAm",
-        "description_dT6VxV",
-        "variant_picker_ezfTaH",
-        "text_h7HJff",
-        "button_k9cfMh",
-        "quantity_selector_a8QCzX",
-        "text_NNfQeC",
-        "image_DPg4pr",
-        "pickup_availability_jcxXhi"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "xpillow-sweet-spot-pillow",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
     "multi_column_9kmceH": {
       "type": "multi-column",
       "blocks": {
@@ -630,68 +571,6 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_ndYM6F": {
-      "type": "multi-column",
-      "blocks": {
-        "item_jqYKqq": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 5.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8egkgY": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 3.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jp6zxY": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 6.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_jqYKqq",
-        "item_8egkgY",
-        "item_jp6zxY"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -847,17 +726,15 @@
   },
   "order": [
     "image_with_text_overlay_zbKRxa",
-    "logo_list_KyHrAh",
+    "featured_product_z3QpdL",
+    "multi_column_VFLqew",
     "multi_column_UBNrmn",
     "multi_column_H9YNxD",
     "multi_column_L9KDG6",
     "before_after_image_W9q8Pt",
     "multi_column_6gNnWr",
-    "multi_column_VFLqew",
-    "featured_product_z3QpdL",
     "multi_column_9kmceH",
     "17685047346a490066",
-    "multi_column_ndYM6F",
     "tabs_bwCTBc",
     "faq_XmVLY9",
     "contact_LWmMLj"
