@@ -398,52 +398,6 @@
         "text_color": ""
       }
     },
-    "multi_column_UBNrmn": {
-      "type": "multi-column",
-      "blocks": {
-        "item_8wTG4b": {
-          "type": "item",
-          "settings": {
-            "column_size": "2",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>It wasn’t stress.</p><p>It wasn’t routine.<br/><br/>It wasn’t chemistry.</p><p><strong>It was comfort.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Q4pmnG": {
-          "type": "item",
-          "settings": {
-            "column_size": "2",
-            "title": "",
-            "heading_tag": "h5",
-            "content": "<p>When discomfort gets in the way, connection fades.</p><p>Once the support changes everything feels different.</p><p><strong>Closer.</strong><br/><strong>Smoother.</strong><br/><strong>Effortless.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_8wTG4b",
-        "item_Q4pmnG"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "It Wasn’t a Spark Problem.",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_L9KDG6": {
       "type": "multi-column",
       "blocks": {
@@ -486,59 +440,6 @@
         "subheading": "",
         "title": "Before & After Results",
         "content": "<h4>Expert-Approved.<br/>We don’t make promises. We show real results.</h4>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_9kmceH": {
-      "type": "multi-column",
-      "blocks": {
-        "spacer_LjffcH": {
-          "type": "spacer",
-          "settings": {
-            "column_size": "6"
-          }
-        },
-        "item_T6PBWh": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Regular Pillow",
-            "heading_tag": "h4",
-            "content": "<p>✘ Flattens<br/><br/>✘ No support<br/><br/>✘ Awkward positioning<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_9TCgyz": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "xPillow",
-            "heading_tag": "h4",
-            "content": "<p>✔ Engineered incline<br/><br/>✔ High-density support<br/><br/>✔ Designed for alignment<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "spacer_LjffcH",
-        "item_T6PBWh",
-        "item_9TCgyz"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Regular Pillow vs xPillow",
-        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -796,12 +697,10 @@
     "logo_list_bGckkC",
     "multi_column_H9YNxD",
     "before_after_image_W9q8Pt",
-    "featured_product_z3QpdL",
-    "multi_column_VFLqew",
-    "multi_column_UBNrmn",
-    "multi_column_L9KDG6",
-    "multi_column_9kmceH",
     "multi_column_6gNnWr",
+    "multi_column_VFLqew",
+    "featured_product_z3QpdL",
+    "multi_column_L9KDG6",
     "17685047346a490066",
     "tabs_bwCTBc",
     "faq_XmVLY9",
