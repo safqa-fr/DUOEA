@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_BGqnGz": {
-          "type": "message",
-          "settings": {
-            "text": "💘 Pré-Valentine’s Day – 50% OFF 💘",
-            "url": ""
-          }
-        },
         "message_wcX8pR": {
           "type": "message",
           "settings": {
@@ -51,7 +44,6 @@
         }
       },
       "block_order": [
-        "message_BGqnGz",
         "message_wcX8pR",
         "message_Yg7Jy6",
         "message_cbMkaC",
