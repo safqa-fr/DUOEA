@@ -65,6 +65,65 @@
         "overlay_opacity": 10
       }
     },
+    "multi_column_UBNrmn": {
+      "type": "multi-column",
+      "blocks": {
+        "item_XRrkhE": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Q4pmnG": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>It was a comfort problem.</p><p>Most couples think it’s stress, routine, or chemistry.<br/><br/>But often, it’s just discomfort getting in the way.</p><p>Once the support changes everything feels different.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JbnYTE": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_XRrkhE",
+        "item_Q4pmnG",
+        "item_JbnYTE"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "It Wasn’t a Spark Problem.",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "logo_list_KyHrAh": {
       "type": "logo-list",
       "blocks": {
@@ -122,65 +181,6 @@
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
         "logo_item_border": ""
-      }
-    },
-    "multi_column_UBNrmn": {
-      "type": "multi-column",
-      "blocks": {
-        "item_XRrkhE": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p><strong>We thought it was stress.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Q4pmnG": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p><strong>We thought it was routine.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JbnYTE": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p><strong>But it turned out to be discomfort.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_XRrkhE",
-        "item_Q4pmnG",
-        "item_JbnYTE"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "We Didn’t Realize Comfort Was the Problem.",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "multi_column_H9YNxD": {
@@ -840,8 +840,8 @@
   },
   "order": [
     "image_with_text_overlay_zbKRxa",
-    "logo_list_KyHrAh",
     "multi_column_UBNrmn",
+    "logo_list_KyHrAh",
     "multi_column_H9YNxD",
     "multi_column_L9KDG6",
     "before_after_image_W9q8Pt",
