@@ -547,46 +547,6 @@
         "text_color": ""
       }
     },
-    "rich_text_xUqfh8": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_zGNjVG": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_pNjapz": {
-          "type": "heading",
-          "settings": {
-            "text": "⭐ Loved by 13,482+ Couples Across the U.S.",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_3afrwY": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_zGNjVG",
-        "heading_pNjapz",
-        "richtext_3afrwY"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "17685047346a490066": {
       "type": "apps",
       "blocks": {
@@ -782,7 +742,6 @@
     "before_after_image_W9q8Pt",
     "multi_column_9kmceH",
     "multi_column_6gNnWr",
-    "rich_text_xUqfh8",
     "17685047346a490066",
     "tabs_bwCTBc",
     "faq_XmVLY9",
