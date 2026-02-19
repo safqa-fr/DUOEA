@@ -301,7 +301,7 @@
             "column_size": "3",
             "title": "PERFECT ANGLE",
             "heading_tag": "h4",
-            "content": "<p>The 27° lift raises the pelvis for greater control and overall satisfaction while aligning your body for maximum comfort</p>",
+            "content": "<p>The precise 27° incline gently elevates the pelvis to encourage natural alignment, improved control, and enhanced comfort.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -312,9 +312,9 @@
           "settings": {
             "image": "shopify://shop_images/GIF2_4790babf-a510-4048-a8c3-4ae3ac88f9e1.gif",
             "column_size": "3",
-            "title": "NO MORE PAIN",
+            "title": "LESS PRESSURE. MORE CONNECTION.",
             "heading_tag": "h4",
-            "content": "<p>Even pressure distribution eliminates hip and lower back pain that ruins the moment</p>",
+            "content": "<p>Balanced support helps reduce tension on the hips and lower back so you can stay focused on the moment.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -327,7 +327,7 @@
             "column_size": "3",
             "title": "DOES THE WORK FOR YOU",
             "heading_tag": "h4",
-            "content": "<p>Self-positioning design means your body automatically finds the right spot without constant adjusting</p>",
+            "content": "<p>The self-positioning design naturally guides your body into the optimal position without constant readjustment.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -346,8 +346,8 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "The Science Behind It",
-        "content": "<p>Developed with women’s health experts<br/>, xPillow uses precision engineering to optimizepelvic positioning for enhanced comfort and pleasure during intimacy.</p>",
+        "title": "The Engineering Behind the Experience",
+        "content": "<p>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
