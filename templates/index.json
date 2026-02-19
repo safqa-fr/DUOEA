@@ -55,7 +55,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "fill",
         "image": "shopify://shop_images/DUOEA-couple.webp",
         "mobile_image": "shopify://shop_images/DUOEA-couple.webp",
         "mobile_text_position": "place-self-end-center text-center",
