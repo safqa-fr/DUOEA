@@ -80,7 +80,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Womens-Health-logo.png",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -88,7 +88,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -96,7 +96,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         }
