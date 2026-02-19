@@ -209,7 +209,7 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/Avis 4.mp4",
-            "column_size": "3",
+            "column_size": "4",
             "title": "⭐⭐⭐⭐⭐“We thought the spark was fading.”– Emily R., Texas",
             "heading_tag": "h4",
             "content": "<p>“We honestly thought it was just routine. We were tired, stressed, and everything felt a little awkward. This pillow completely changed how natural everything feels. It’s subtle — but it makes such a difference. We actually feel closer again.”<br/></p>",
@@ -222,7 +222,7 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/Avis 2.mp4",
-            "column_size": "3",
+            "column_size": "4",
             "title": "⭐⭐⭐⭐⭐– Rachel S., Illinois",
             "heading_tag": "h4",
             "content": "<p>“The support is solid but comfortable. No pressure on the lower back. We can actually relax.”</p>",
@@ -235,10 +235,23 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/Avis 1.mp4",
-            "column_size": "3",
+            "column_size": "4",
             "title": "⭐⭐⭐⭐⭐“Comfort was the missing piece.”– Lauren & Mike, Florida",
             "heading_tag": "h4",
             "content": "<p>“We never realized discomfort was getting in the way. Once we tried this, everything felt smoother and more connected. It’s honestly something every couple should try.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jwJcmN": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 3.mp4",
+            "column_size": "4",
+            "title": "⭐⭐⭐⭐⭐“I didn’t realize how much discomfort was affecting us.”— Amanda L., California",
+            "heading_tag": "h4",
+            "content": "<p>“I always thought it was just stress or timing. But I realized I was constantly adjusting and never fully comfortable. This pillow changed that completely. Everything feels more natural and relaxed now — and I actually enjoy the moment more.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -248,7 +261,8 @@
       "block_order": [
         "item_LaVaQm",
         "item_YG7Whm",
-        "item_VDWm8N"
+        "item_VDWm8N",
+        "item_jwJcmN"
       ],
       "name": "Multi-column",
       "settings": {
