@@ -131,9 +131,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "We thought it was stress.",
+            "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p><strong>We thought it was stress.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -143,9 +143,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "We thought it was routine.",
+            "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p><strong>We thought it was routine.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -155,9 +155,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "But it turned out to be discomfort.",
+            "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p><strong>But it turned out to be discomfort.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -270,12 +270,12 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before & After Results",
+        "title": "When Support Changes, Everything Changes.",
         "content": "",
-        "before_image": "shopify://shop_images/before_web.png",
-        "before_image_mobile": "shopify://shop_images/before_mobile.png",
-        "after_image": "shopify://shop_images/after_web.png",
-        "after_image_mobile": "shopify://shop_images/after_mobile.png",
+        "before_image": "shopify://shop_images/before_xpillow.png",
+        "before_image_mobile": "shopify://shop_images/before_xpillow.png",
+        "after_image": "shopify://shop_images/after_xpillow.png",
+        "after_image_mobile": "shopify://shop_images/after_xpillow.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",
