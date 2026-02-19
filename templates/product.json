@@ -12,10 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -82,7 +78,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "price",
@@ -94,7 +89,6 @@
         "quantity_selector",
         "buy_buttons"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
@@ -231,6 +225,7 @@
         "image_rQXnna",
         "pickup_availability_TzW4eF"
       ],
+      "disabled": true,
       "name": "Featured product",
       "settings": {
         "full_width": true,
