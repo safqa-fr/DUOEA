@@ -475,6 +475,12 @@
             "size_chart_page": ""
           }
         },
+        "text_h7HJff": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ready to Feel the Difference?</p>"
+          }
+        },
         "button_k9cfMh": {
           "type": "button",
           "settings": {
@@ -520,6 +526,7 @@
         "separator_npCfAm",
         "description_dT6VxV",
         "variant_picker_ezfTaH",
+        "text_h7HJff",
         "button_k9cfMh",
         "quantity_selector_a8QCzX",
         "text_NNfQeC",
