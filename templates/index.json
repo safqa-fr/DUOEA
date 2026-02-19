@@ -131,9 +131,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "",
+            "title": "We thought it was stress.",
             "heading_tag": "h4",
-            "content": "<p>We thought it was stress.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -143,9 +143,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "",
+            "title": "We thought it was routine.",
             "heading_tag": "h4",
-            "content": "<p>We thought it was routine.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -155,9 +155,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "",
+            "title": "But it turned out to be discomfort.",
             "heading_tag": "h4",
-            "content": "<p>But it turned out to be discomfort.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
