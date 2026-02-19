@@ -32,12 +32,6 @@
             "show_taxes_notice": false
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
@@ -86,7 +80,6 @@
         "title",
         "badges",
         "price",
-        "rating",
         "payment_terms",
         "separator",
         "description",
