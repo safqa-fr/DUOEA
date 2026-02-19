@@ -185,6 +185,144 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "multi_column_6gNnWr": {
+      "type": "multi-column",
+      "blocks": {
+        "item_rRctVi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/GIF.gif",
+            "column_size": "3",
+            "title": "PERFECT ANGLE",
+            "heading_tag": "h4",
+            "content": "<p>The precise 27° incline gently elevates the pelvis to encourage natural alignment, improved control, and enhanced comfort.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_htKMMK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/GIF2_4790babf-a510-4048-a8c3-4ae3ac88f9e1.gif",
+            "column_size": "3",
+            "title": "LESS PRESSURE. MORE CONNECTION.",
+            "heading_tag": "h4",
+            "content": "<p>Balanced support helps reduce tension on the hips and lower back so you can stay focused on the moment.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AXTTFx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Video.gif",
+            "column_size": "3",
+            "title": "DOES THE WORK FOR YOU",
+            "heading_tag": "h4",
+            "content": "<p>The self-positioning design naturally guides your body into the optimal position without constant readjustment.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_rRctVi",
+        "item_htKMMK",
+        "item_AXTTFx"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "The Engineering Behind the Experience",
+        "content": "<p>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_VFLqew": {
+      "type": "multi-column",
+      "blocks": {
+        "item_LaVaQm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 4.mp4",
+            "column_size": "4",
+            "title": "⭐⭐⭐⭐⭐“We thought the spark was fading.”– Emily R., Texas",
+            "heading_tag": "h6",
+            "content": "<p>“We honestly thought it was just routine. We were tired, stressed, and everything felt a little awkward. This pillow completely changed how natural everything feels. It’s subtle — but it makes such a difference. We actually feel closer again.”<br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YG7Whm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 2.mp4",
+            "column_size": "4",
+            "title": "⭐⭐⭐⭐⭐– Rachel S., Illinois",
+            "heading_tag": "h6",
+            "content": "<p>“The support is solid but comfortable. No pressure on the lower back. We can actually relax.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VDWm8N": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 1.mp4",
+            "column_size": "4",
+            "title": "⭐⭐⭐⭐⭐“Comfort was the missing piece.”– Lauren & Mike, Florida",
+            "heading_tag": "h6",
+            "content": "<p>“We never realized discomfort was getting in the way. Once we tried this, everything felt smoother and more connected. It’s honestly something every couple should try.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jwJcmN": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 3.mp4",
+            "column_size": "4",
+            "title": "⭐⭐⭐⭐⭐“I didn’t realize how much discomfort was affecting us.”— Amanda L., California",
+            "heading_tag": "h6",
+            "content": "<p>“I always thought it was just stress or timing. But I realized I was constantly adjusting and never fully comfortable. This pillow changed that completely. Everything feels more natural and relaxed now — and I actually enjoy the moment more.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_LaVaQm",
+        "item_YG7Whm",
+        "item_VDWm8N",
+        "item_jwJcmN"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "They say it better than we do",
+        "content": "<h5>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.<br/>★★★★★ 4.8/5 Average Rating<br/>Based on 2,937 Verified Reviews</h5>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_z3QpdL": {
       "type": "featured-product",
       "blocks": {
@@ -322,82 +460,6 @@
         "input_text_color": ""
       }
     },
-    "multi_column_VFLqew": {
-      "type": "multi-column",
-      "blocks": {
-        "item_LaVaQm": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 4.mp4",
-            "column_size": "4",
-            "title": "⭐⭐⭐⭐⭐“We thought the spark was fading.”– Emily R., Texas",
-            "heading_tag": "h6",
-            "content": "<p>“We honestly thought it was just routine. We were tired, stressed, and everything felt a little awkward. This pillow completely changed how natural everything feels. It’s subtle — but it makes such a difference. We actually feel closer again.”<br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YG7Whm": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 2.mp4",
-            "column_size": "4",
-            "title": "⭐⭐⭐⭐⭐– Rachel S., Illinois",
-            "heading_tag": "h6",
-            "content": "<p>“The support is solid but comfortable. No pressure on the lower back. We can actually relax.”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VDWm8N": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 1.mp4",
-            "column_size": "4",
-            "title": "⭐⭐⭐⭐⭐“Comfort was the missing piece.”– Lauren & Mike, Florida",
-            "heading_tag": "h6",
-            "content": "<p>“We never realized discomfort was getting in the way. Once we tried this, everything felt smoother and more connected. It’s honestly something every couple should try.”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jwJcmN": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 3.mp4",
-            "column_size": "4",
-            "title": "⭐⭐⭐⭐⭐“I didn’t realize how much discomfort was affecting us.”— Amanda L., California",
-            "heading_tag": "h6",
-            "content": "<p>“I always thought it was just stress or timing. But I realized I was constantly adjusting and never fully comfortable. This pillow changed that completely. Everything feels more natural and relaxed now — and I actually enjoy the moment more.”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_LaVaQm",
-        "item_YG7Whm",
-        "item_VDWm8N",
-        "item_jwJcmN"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "They say it better than we do",
-        "content": "<h5>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.<br/>★★★★★ 4.8/5 Average Rating<br/>Based on 2,937 Verified Reviews</h5>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_L9KDG6": {
       "type": "multi-column",
       "blocks": {
@@ -440,68 +502,6 @@
         "subheading": "",
         "title": "Before & After Results",
         "content": "<h4>Expert-Approved.<br/>We don’t make promises. We show real results.</h4>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_6gNnWr": {
-      "type": "multi-column",
-      "blocks": {
-        "item_rRctVi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF.gif",
-            "column_size": "3",
-            "title": "PERFECT ANGLE",
-            "heading_tag": "h4",
-            "content": "<p>The precise 27° incline gently elevates the pelvis to encourage natural alignment, improved control, and enhanced comfort.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_htKMMK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF2_4790babf-a510-4048-a8c3-4ae3ac88f9e1.gif",
-            "column_size": "3",
-            "title": "LESS PRESSURE. MORE CONNECTION.",
-            "heading_tag": "h4",
-            "content": "<p>Balanced support helps reduce tension on the hips and lower back so you can stay focused on the moment.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AXTTFx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Video.gif",
-            "column_size": "3",
-            "title": "DOES THE WORK FOR YOU",
-            "heading_tag": "h4",
-            "content": "<p>The self-positioning design naturally guides your body into the optimal position without constant readjustment.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_rRctVi",
-        "item_htKMMK",
-        "item_AXTTFx"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "The Engineering Behind the Experience",
-        "content": "<p>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
