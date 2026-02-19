@@ -452,12 +452,6 @@
             "text": "<h4>Why Couples Feel the Difference</h4><p>✓ Precision 27° design for effortless positioning<br/><br/>✓ Helps reduce pressure & awkward adjustments<br/><br/>✓ Makes every movement feel smoother & more natural<br/><br/>✓ 30-Night Risk-Free Trial — Try It With Confidence</p>"
           }
         },
-        "text_NNfQeC": {
-          "type": "text",
-          "settings": {
-            "text": "<p>– 50% OFF 🎁<br/><br/></p>"
-          }
-        },
         "separator_npCfAm": {
           "type": "separator",
           "settings": {}
@@ -481,27 +475,26 @@
             "size_chart_page": ""
           }
         },
-        "kaching_bundles_app_block_C9H8QC": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+        "button_k9cfMh": {
+          "type": "button",
           "settings": {
-            "product": "{{section.settings.product}}",
-            "manual_deal_block_id": ""
+            "link": "shopify://products/xpillow-sweet-spot-pillow",
+            "text": "Try It Risk-Free Tonight",
+            "size": "xl",
+            "style": "fill",
+            "stretch": true,
+            "background": "",
+            "text_color": ""
           }
         },
         "quantity_selector_a8QCzX": {
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy_buttons_FLWVnU": {
-          "type": "buy_buttons",
-          "name": "Buy now",
+        "text_NNfQeC": {
+          "type": "text",
           "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
+            "text": "<p>✔ Designed with expert-backed alignment<br/>✔ High-density ergonomic support<br/>✔ Trusted by 13,000+ Couples in the U.S.</p>"
           }
         },
         "image_DPg4pr": {
@@ -524,13 +517,12 @@
         "price_yebrkk",
         "liquid_w63nXc",
         "text_EqzCPU",
-        "text_NNfQeC",
         "separator_npCfAm",
         "description_dT6VxV",
         "variant_picker_ezfTaH",
-        "kaching_bundles_app_block_C9H8QC",
+        "button_k9cfMh",
         "quantity_selector_a8QCzX",
-        "buy_buttons_FLWVnU",
+        "text_NNfQeC",
         "image_DPg4pr",
         "pickup_availability_jcxXhi"
       ],
