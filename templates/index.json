@@ -56,7 +56,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "fill",
-        "image": "shopify://shop_images/DUOEA-couple.webp",
+        "image": "shopify://shop_images/Hero_xPillow.png",
         "mobile_image": "shopify://shop_images/DUOEA-couple.webp",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
