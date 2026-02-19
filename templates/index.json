@@ -281,37 +281,19 @@
     "multi_column_UBNrmn": {
       "type": "multi-column",
       "blocks": {
-        "item_XRrkhE": {
-          "type": "item",
+        "spacer_jpgPMN": {
+          "type": "spacer",
           "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "column_size": "4"
           }
         },
         "item_Q4pmnG": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "column_size": "2",
             "title": "",
-            "heading_tag": "h4",
+            "heading_tag": "h5",
             "content": "<p>It wasn’t stress.</p><p>It wasn’t routine.<br/><br/>It wasn’t chemistry.</p><p><strong>It was comfort.</strong></p><p>When discomfort gets in the way, connection fades.</p><p>Once the support changes everything feels different.</p><p></p><p></p><p><strong>Closer.</strong><br/><strong>Smoother.</strong><br/><strong>Effortless.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JbnYTE": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -319,9 +301,8 @@
         }
       },
       "block_order": [
-        "item_XRrkhE",
-        "item_Q4pmnG",
-        "item_JbnYTE"
+        "spacer_jpgPMN",
+        "item_Q4pmnG"
       ],
       "name": "Multi-column",
       "settings": {
@@ -448,10 +429,16 @@
     "multi_column_9kmceH": {
       "type": "multi-column",
       "blocks": {
+        "spacer_LjffcH": {
+          "type": "spacer",
+          "settings": {
+            "column_size": "6"
+          }
+        },
         "item_T6PBWh": {
           "type": "item",
           "settings": {
-            "column_size": "2",
+            "column_size": "3",
             "title": "Regular Pillow",
             "heading_tag": "h4",
             "content": "<p>✘ Flattens<br/><br/>✘ No support<br/><br/>✘ Awkward positioning<br/><br/></p>",
@@ -463,7 +450,7 @@
         "item_9TCgyz": {
           "type": "item",
           "settings": {
-            "column_size": "2",
+            "column_size": "3",
             "title": "xPillow",
             "heading_tag": "h4",
             "content": "<p>✔ Engineered incline<br/><br/>✔ High-density support<br/><br/>✔ Designed for alignment<br/><br/></p>",
@@ -474,6 +461,7 @@
         }
       },
       "block_order": [
+        "spacer_LjffcH",
         "item_T6PBWh",
         "item_9TCgyz"
       ],
