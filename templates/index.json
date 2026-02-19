@@ -272,7 +272,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "They say it better than we do",
-        "content": "<h4>⭐ 4.8/5 – Trusted by 13k+ Happy Couples</h4>",
+        "content": "<h5>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.<br/>★★★★★ 4.8/5 Average Rating<br/>Based on 2,937 Verified Reviews<br/><br/><br/><br/></h5>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -281,10 +281,16 @@
     "multi_column_UBNrmn": {
       "type": "multi-column",
       "blocks": {
-        "spacer_jpgPMN": {
-          "type": "spacer",
+        "item_8wTG4b": {
+          "type": "item",
           "settings": {
-            "column_size": "4"
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>It wasn’t stress.</p><p>It wasn’t routine.<br/><br/>It wasn’t chemistry.</p><p><strong>It was comfort.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
         "item_Q4pmnG": {
@@ -293,7 +299,7 @@
             "column_size": "2",
             "title": "",
             "heading_tag": "h5",
-            "content": "<p>It wasn’t stress.</p><p>It wasn’t routine.<br/><br/>It wasn’t chemistry.</p><p><strong>It was comfort.</strong></p><p>When discomfort gets in the way, connection fades.</p><p>Once the support changes everything feels different.</p><p></p><p></p><p><strong>Closer.</strong><br/><strong>Smoother.</strong><br/><strong>Effortless.</strong></p>",
+            "content": "<p>When discomfort gets in the way, connection fades.</p><p>Once the support changes everything feels different.</p><p><strong>Closer.</strong><br/><strong>Smoother.</strong><br/><strong>Effortless.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -301,7 +307,7 @@
         }
       },
       "block_order": [
-        "spacer_jpgPMN",
+        "item_8wTG4b",
         "item_Q4pmnG"
       ],
       "name": "Multi-column",
@@ -541,6 +547,46 @@
         "text_color": ""
       }
     },
+    "rich_text_xUqfh8": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_zGNjVG": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_pNjapz": {
+          "type": "heading",
+          "settings": {
+            "text": "⭐ Loved by 13,482+ Couples Across the U.S.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_3afrwY": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zGNjVG",
+        "heading_pNjapz",
+        "richtext_3afrwY"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "17685047346a490066": {
       "type": "apps",
       "blocks": {
@@ -736,6 +782,7 @@
     "before_after_image_W9q8Pt",
     "multi_column_9kmceH",
     "multi_column_6gNnWr",
+    "rich_text_xUqfh8",
     "17685047346a490066",
     "tabs_bwCTBc",
     "faq_XmVLY9",
