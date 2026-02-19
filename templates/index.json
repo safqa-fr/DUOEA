@@ -128,7 +128,7 @@
         "text_h7HJff": {
           "type": "text",
           "settings": {
-            "text": "<p>Ready to Feel the Difference?</p>"
+            "text": "<p>Ready to Feel the Difference Tonight?</p>"
           }
         },
         "button_k9cfMh": {
@@ -445,6 +445,52 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "multi_column_9kmceH": {
+      "type": "multi-column",
+      "blocks": {
+        "item_T6PBWh": {
+          "type": "item",
+          "settings": {
+            "column_size": "2",
+            "title": "Regular Pillow",
+            "heading_tag": "h4",
+            "content": "<p>✘ Flattens<br/><br/>✘ No support<br/><br/>✘ Awkward positioning<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9TCgyz": {
+          "type": "item",
+          "settings": {
+            "column_size": "2",
+            "title": "xPillow",
+            "heading_tag": "h4",
+            "content": "<p>✔ Engineered incline<br/><br/>✔ High-density support<br/><br/>✔ Designed for alignment<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_T6PBWh",
+        "item_9TCgyz"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Regular Pillow vs xPillow",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_6gNnWr": {
       "type": "multi-column",
       "blocks": {
@@ -502,52 +548,6 @@
         "subheading": "",
         "title": "The Engineering Behind the Experience",
         "content": "<p>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_9kmceH": {
-      "type": "multi-column",
-      "blocks": {
-        "item_T6PBWh": {
-          "type": "item",
-          "settings": {
-            "column_size": "2",
-            "title": "Regular Pillow",
-            "heading_tag": "h4",
-            "content": "<p>✘ Flattens<br/><br/>✘ No support<br/><br/>✘ Awkward positioning<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_9TCgyz": {
-          "type": "item",
-          "settings": {
-            "column_size": "2",
-            "title": "xPillow",
-            "heading_tag": "h4",
-            "content": "<p>✔ Engineered incline<br/><br/>✔ High-density support<br/><br/>✔ Designed for alignment<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_T6PBWh",
-        "item_9TCgyz"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Regular Pillow vs xPillow",
-        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -746,8 +746,8 @@
     "multi_column_H9YNxD",
     "multi_column_L9KDG6",
     "before_after_image_W9q8Pt",
-    "multi_column_6gNnWr",
     "multi_column_9kmceH",
+    "multi_column_6gNnWr",
     "17685047346a490066",
     "tabs_bwCTBc",
     "faq_XmVLY9",
