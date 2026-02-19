@@ -15,14 +15,14 @@
         "heading_nNmDbi": {
           "type": "heading",
           "settings": {
-            "text": "Feel Closer. Stay Comfortable. Enjoy Every Moment Longer.",
+            "text": "Feel Closer. Without the Strain.",
             "heading_tag": "h1"
           }
         },
         "heading_jQfaF3": {
           "type": "heading",
           "settings": {
-            "text": "Engineered at a precise 27° angle to naturally support deeper, more comfortable intimacy — without strain or awkward adjustments.",
+            "text": "Engineered at a precise 27° angle to reduce pressure and support natural alignment for more comfortable, connected moments.",
             "heading_tag": "h4"
           }
         },
@@ -63,6 +63,65 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 10
+      }
+    },
+    "logo_list_KyHrAh": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_bJz7YD": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_3TRMtj": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Womens-Health-logo.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_jkJ9wK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
+            "logo_width": 200,
+            "link": ""
+          }
+        },
+        "logo_9z3Nf3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_bJz7YD",
+        "logo_3TRMtj",
+        "logo_jkJ9wK",
+        "logo_9z3Nf3"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
       }
     },
     "multi_column_UBNrmn": {
@@ -122,65 +181,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "logo_list_KyHrAh": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_bJz7YD": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
-        "logo_3TRMtj": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Womens-Health-logo.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
-        "logo_jkJ9wK": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
-            "logo_width": 200,
-            "link": ""
-          }
-        },
-        "logo_9z3Nf3": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_bJz7YD",
-        "logo_3TRMtj",
-        "logo_jkJ9wK",
-        "logo_9z3Nf3"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "As Seen On :",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": ""
       }
     },
     "multi_column_H9YNxD": {
@@ -840,8 +840,8 @@
   },
   "order": [
     "image_with_text_overlay_zbKRxa",
-    "multi_column_UBNrmn",
     "logo_list_KyHrAh",
+    "multi_column_UBNrmn",
     "multi_column_H9YNxD",
     "multi_column_L9KDG6",
     "before_after_image_W9q8Pt",
