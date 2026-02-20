@@ -248,6 +248,42 @@
         "text_color": ""
       }
     },
+    "impact_text_cmhRQP": {
+      "type": "impact-text",
+      "blocks": {
+        "item_bz8gKc": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "content": "<h1><strong>They say it better than we do</strong></h1>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_bz8gKc"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "multi_column_VFLqew": {
       "type": "multi-column",
       "blocks": {
@@ -303,7 +339,7 @@
         "gap": "x-large",
         "text_alignment": "center",
         "subheading": "",
-        "title": "They say it better than we do",
+        "title": "",
         "content": "<h5>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.</h5>",
         "background": "",
         "background_gradient": "",
@@ -684,6 +720,7 @@
     "multi_column_H9YNxD",
     "before_after_image_W9q8Pt",
     "multi_column_6gNnWr",
+    "impact_text_cmhRQP",
     "multi_column_VFLqew",
     "featured_product_z3QpdL",
     "multi_column_L9KDG6",
