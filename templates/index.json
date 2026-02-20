@@ -23,13 +23,14 @@
           "type": "heading",
           "settings": {
             "text": "Engineered at a precise 27° incline to support natural alignment for more comfortable, connected moments.",
-            "heading_tag": "h3"
+            "heading_tag": "h4"
           }
         },
-        "richtext_ctq7GC": {
-          "type": "richtext",
+        "heading_n7FMwW": {
+          "type": "heading",
           "settings": {
-            "content": "<h5>⭐ 4.8/5 from 13,482+ Couples</h5><h5>✓ 30-Night Risk-Free Trial<br/>✓ Fast US Shipping</h5><h5></h5>"
+            "text": "⭐ 4.8/5 from 13,482+ Couples",
+            "heading_tag": "h4"
           }
         },
         "button_RiHrek": {
@@ -47,7 +48,7 @@
       "block_order": [
         "heading_nNmDbi",
         "heading_jQfaF3",
-        "richtext_ctq7GC",
+        "heading_n7FMwW",
         "button_RiHrek"
       ],
       "name": "Image with text overlay",
