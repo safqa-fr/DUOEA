@@ -238,7 +238,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "x-large",
         "text_alignment": "center",
         "subheading": "",
         "title": "The Engineering Behind the Experience",
@@ -314,7 +314,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "small",
+        "gap": "x-large",
         "text_alignment": "center",
         "subheading": "",
         "title": "They say it better than we do",
@@ -651,8 +651,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
-        "content": "",
+        "title": "",
+        "content": "<h1><strong>FAQ</strong></h1>",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
@@ -676,8 +676,8 @@
       "settings": {
         "full_width": true,
         "subheading": "Our customer support is available Monday to Friday: 8am-8:30pm. Average answer time: 24h",
-        "title": "Do you have any question?",
-        "content": "",
+        "title": "",
+        "content": "<h1><strong>Do you have any question?</strong></h1>",
         "text_position": "center",
         "contact_form_size": "small",
         "background": "",
