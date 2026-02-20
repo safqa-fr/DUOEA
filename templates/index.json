@@ -15,22 +15,21 @@
         "heading_nNmDbi": {
           "type": "heading",
           "settings": {
-            "text": "Feel Closer. Without the Strain.",
+            "text": "More Comfort. Deeper Connection.",
             "heading_tag": "h2"
           }
         },
         "heading_jQfaF3": {
           "type": "heading",
           "settings": {
-            "text": "Engineered at a precise 27° incline to support natural alignment for more comfortable, connected moments.",
+            "text": "Designed to naturally support your body so intimacy feels easier, more comfortable, and more connected.",
             "heading_tag": "h6"
           }
         },
-        "heading_n7FMwW": {
-          "type": "heading",
+        "richtext_yDAq7g": {
+          "type": "richtext",
           "settings": {
-            "text": "⭐ 4.8/5 from 13,482+ Couples",
-            "heading_tag": "h5"
+            "content": "<p>• Supports natural alignment<br/>• Reduces pressure & strain<br/>• Designed for couples</p>"
           }
         },
         "button_RiHrek": {
@@ -38,18 +37,25 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "Feel the Difference Tonight",
+            "text": "Experience the Difference",
             "url": "shopify://products/xpillow-sweet-spot-pillow",
             "background": "#c97a5d",
             "text_color": ""
+          }
+        },
+        "richtext_VfR4YW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Discreet packaging • 30-day guarantee • Secure checkout</p>"
           }
         }
       },
       "block_order": [
         "heading_nNmDbi",
         "heading_jQfaF3",
-        "heading_n7FMwW",
-        "button_RiHrek"
+        "richtext_yDAq7g",
+        "button_RiHrek",
+        "richtext_VfR4YW"
       ],
       "name": "Image with text overlay",
       "settings": {
