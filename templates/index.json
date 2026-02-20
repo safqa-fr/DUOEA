@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "text": "Feel Closer. Without the Strain.",
-            "heading_tag": "h0"
+            "heading_tag": "h1"
           }
         },
         "heading_jQfaF3": {
@@ -56,7 +56,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "fill",
         "image": "shopify://shop_images/Hero_xPillow.png",
         "mobile_image": "shopify://shop_images/Hero_xPillow.png",
         "mobile_text_position": "place-self-end-center text-center",
