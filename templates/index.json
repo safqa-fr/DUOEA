@@ -165,8 +165,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before & After Results",
-        "content": "",
+        "title": "",
+        "content": "<h1><strong>Before & After Results</strong></h1>",
         "before_image": "shopify://shop_images/before_xpillow.png",
         "before_image_mobile": "shopify://shop_images/before_xpillow.png",
         "after_image": "shopify://shop_images/after_xpillow.png",
