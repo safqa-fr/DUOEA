@@ -34,20 +34,12 @@
             "text": "Free Shipping",
             "url": ""
           }
-        },
-        "message_UNyPi4": {
-          "type": "message",
-          "settings": {
-            "text": "💘 Valentine’s Day – 50% OFF 💘",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "message_Yg7Jy6",
         "message_cbMkaC",
-        "message",
-        "message_UNyPi4"
+        "message"
       ],
       "settings": {
         "enable_sticky": false,
