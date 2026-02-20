@@ -152,8 +152,8 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Why Choose xPillow ?",
-        "content": "",
+        "title": "",
+        "content": "<h1><strong>Why Choose xPillow ?</strong></h1>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
