@@ -396,7 +396,7 @@
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
-            "payment_button_background": "",
+            "payment_button_background": "#e07a5f",
             "payment_button_text_color": ""
           }
         },
@@ -663,10 +663,10 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "button_background": "#f4efea",
+        "button_text_color": "#1a1a1a",
+        "accordion_background": "#f4efea",
+        "accordion_text_color": "#1a1a1a"
       }
     },
     "contact_LWmMLj": {
@@ -684,9 +684,9 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "",
+        "contact_background": "#f4efea",
         "contact_text_color": "",
-        "button_background": "",
+        "button_background": "#e07a5f",
         "button_text_color": ""
       }
     }
