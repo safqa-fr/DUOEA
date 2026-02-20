@@ -257,30 +257,6 @@
     "featured_product_z3QpdL": {
       "type": "featured-product",
       "blocks": {
-        "loox_reviews_loox_snippets_widget_QL9mTK": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-snippets-widget/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "reviews-type": "product-reviews",
-            "reviews-limit": 10,
-            "alignment": "left",
-            "max-width": "",
-            "color-scheme": "default",
-            "shadow": "",
-            "show-rating": true,
-            "show-image": true,
-            "hide-arrows-mobile": false,
-            "font-size": 14,
-            "show-border": false,
-            "border-radius": 16,
-            "background-color": "",
-            "text-color": "",
-            "name-color": "",
-            "rating-icon-color": "",
-            "border-color": "",
-            "shadow-color": "",
-            "product_selection": ""
-          }
-        },
         "liquid_kzAgck": {
           "type": "liquid",
           "settings": {
@@ -346,12 +322,13 @@
         },
         "buy_buttons_8zdr8A": {
           "type": "buy_buttons",
+          "name": "Buy now !",
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
-            "payment_button_background": "#e07a5f",
+            "payment_button_background": "#ffb74a",
             "payment_button_text_color": ""
           }
         },
@@ -379,7 +356,6 @@
         }
       },
       "block_order": [
-        "loox_reviews_loox_snippets_widget_QL9mTK",
         "liquid_kzAgck",
         "title_FTaeAC",
         "badges_YQBfQ6",
@@ -536,7 +512,7 @@
             "max-characters": 180,
             "autoplay": false,
             "autoplay-delay": 5,
-            "main-color": "#AE8868",
+            "main-color": "#ae8868",
             "stars-color": "#00a341",
             "show-review-text": true,
             "text-color": "",
