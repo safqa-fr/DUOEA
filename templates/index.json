@@ -192,68 +192,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "multi_column_6gNnWr": {
-      "type": "multi-column",
-      "blocks": {
-        "item_rRctVi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF.gif",
-            "column_size": "3",
-            "title": "PERFECT ANGLE",
-            "heading_tag": "h4",
-            "content": "<h6>The precise 27° incline gently elevates the pelvis to encourage natural alignment, improved control, and enhanced comfort.</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_htKMMK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF2_4790babf-a510-4048-a8c3-4ae3ac88f9e1.gif",
-            "column_size": "3",
-            "title": "LESS PRESSURE. MORE CONNECTION.",
-            "heading_tag": "h4",
-            "content": "<h6>Balanced support helps reduce tension on the hips and lower back so you can stay focused on the moment.</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AXTTFx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Video.gif",
-            "column_size": "3",
-            "title": "DOES THE WORK FOR YOU",
-            "heading_tag": "h4",
-            "content": "<h6>The self-positioning design naturally guides your body into the optimal position without constant readjustment.</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_rRctVi",
-        "item_htKMMK",
-        "item_AXTTFx"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "x-large",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "The Engineering Behind the Experience",
-        "content": "<h6>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</h6>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_VFLqew": {
       "type": "multi-column",
       "blocks": {
@@ -450,6 +388,68 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "multi_column_6gNnWr": {
+      "type": "multi-column",
+      "blocks": {
+        "item_rRctVi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/GIF.gif",
+            "column_size": "3",
+            "title": "PERFECT ANGLE",
+            "heading_tag": "h4",
+            "content": "<h6>The precise 27° incline gently elevates the pelvis to encourage natural alignment, improved control, and enhanced comfort.</h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_htKMMK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/GIF2_4790babf-a510-4048-a8c3-4ae3ac88f9e1.gif",
+            "column_size": "3",
+            "title": "LESS PRESSURE. MORE CONNECTION.",
+            "heading_tag": "h4",
+            "content": "<h6>Balanced support helps reduce tension on the hips and lower back so you can stay focused on the moment.</h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AXTTFx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Video.gif",
+            "column_size": "3",
+            "title": "DOES THE WORK FOR YOU",
+            "heading_tag": "h4",
+            "content": "<h6>The self-positioning design naturally guides your body into the optimal position without constant readjustment.</h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_rRctVi",
+        "item_htKMMK",
+        "item_AXTTFx"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "x-large",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "The Engineering Behind the Experience",
+        "content": "<h6>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</h6>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_L9KDG6": {
@@ -689,9 +689,9 @@
     "logo_list_bGckkC",
     "multi_column_H9YNxD",
     "before_after_image_W9q8Pt",
-    "multi_column_6gNnWr",
     "multi_column_VFLqew",
     "featured_product_z3QpdL",
+    "multi_column_6gNnWr",
     "multi_column_L9KDG6",
     "17685047346a490066",
     "tabs_bwCTBc",
