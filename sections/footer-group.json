@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "Global Insured Shipping",
+            "content": "<p>Enjoy free tracked delivery on all orders. Each package is carefully handled and shipped within 24–48 hours to ensure your comfort arrives as soon as possible.</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "24/7 Dedicated Support",
+            "content": "<p>Our team is here for you every step of the way. If you have any questions or need assistance, reach out to us at <strong>hello@x-pillow.com</strong> and we’ll get back to you within 24 hours.</p>"
           }
         },
         "discount": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "title": "30-Night Risk-Free Trial",
+            "content": "<p>Your satisfaction is our priority. Try the X-Pillow in the comfort of your home for 30 nights. If it doesn’t transform your experience, we offer a hassle-free full refund.</p>"
           }
         },
         "payment": {
@@ -62,8 +62,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "Secure & Encrypted Checkout",
+            "content": "<p>Shop with total peace of mind. We use industry-standard SSL encryption to protect your data, and we accept all major credit cards, PayPal, and Klarna for a seamless experience.</p>"
           }
         }
       },
