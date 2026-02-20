@@ -195,7 +195,7 @@
             "column_size": "3",
             "title": "PERFECT ANGLE",
             "heading_tag": "h4",
-            "content": "<p>The precise 27° incline gently elevates the pelvis to encourage natural alignment, improved control, and enhanced comfort.</p>",
+            "content": "<h6>The precise 27° incline gently elevates the pelvis to encourage natural alignment, improved control, and enhanced comfort.</h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -208,7 +208,7 @@
             "column_size": "3",
             "title": "LESS PRESSURE. MORE CONNECTION.",
             "heading_tag": "h4",
-            "content": "<p>Balanced support helps reduce tension on the hips and lower back so you can stay focused on the moment.</p>",
+            "content": "<h6>Balanced support helps reduce tension on the hips and lower back so you can stay focused on the moment.</h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -221,7 +221,7 @@
             "column_size": "3",
             "title": "DOES THE WORK FOR YOU",
             "heading_tag": "h4",
-            "content": "<p>The self-positioning design naturally guides your body into the optimal position without constant readjustment.</p>",
+            "content": "<h6>The self-positioning design naturally guides your body into the optimal position without constant readjustment.</h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -241,7 +241,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "The Engineering Behind the Experience",
-        "content": "<p>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</p>",
+        "content": "<h5>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</h5>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -317,7 +317,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "They say it better than we do",
-        "content": "<h4>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.<br/>★★★★★ 4.8/5 Average Rating<br/>Based on 2,937 Verified Reviews</h4>",
+        "content": "<h5>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.<br/>★★★★★ 4.8/5 Average Rating<br/>Based on 2,937 Verified Reviews</h5>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -357,7 +357,7 @@
         "text_EqzCPU": {
           "type": "text",
           "settings": {
-            "text": "<h4>Why Couples Feel the Difference</h4><p>✓ Precision 27° design for effortless positioning<br/><br/>✓ Helps reduce pressure & awkward adjustments<br/><br/>✓ Makes every movement feel smoother & more natural<br/><br/>✓ 30-Night Risk-Free Trial — Try It With Confidence</p>"
+            "text": "<h4>Why Couples Feel the Difference</h4><p>✓ Precision 27° design for effortless positioning<br/>✓ Helps reduce pressure & awkward adjustments<br/>✓ Makes every movement feel smoother & more natural<br/>✓ 30-Night Risk-Free Trial — Try It With Confidence</p>"
           }
         },
         "separator_npCfAm": {
