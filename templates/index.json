@@ -192,42 +192,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "impact_text_6w8qEH": {
-      "type": "impact-text",
-      "blocks": {
-        "item_WMqfDr": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "",
-            "content": "<h2><strong>The Engineering Behind the Experience</strong></h2>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_WMqfDr"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "multi_column_6gNnWr": {
       "type": "multi-column",
       "blocks": {
@@ -283,47 +247,11 @@
         "gap": "x-large",
         "text_alignment": "center",
         "subheading": "",
-        "title": "",
+        "title": "The Engineering Behind the Experience",
         "content": "<h6>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</h6>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "impact_text_cmhRQP": {
-      "type": "impact-text",
-      "blocks": {
-        "item_bz8gKc": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "",
-            "content": "<h2><strong>They say it better than we do</strong></h2>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_bz8gKc"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "multi_column_VFLqew": {
@@ -381,7 +309,7 @@
         "gap": "x-large",
         "text_alignment": "center",
         "subheading": "",
-        "title": "",
+        "title": "They say it better than we do",
         "content": "<h5>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.</h5>",
         "background": "",
         "background_gradient": "",
@@ -761,9 +689,7 @@
     "logo_list_bGckkC",
     "multi_column_H9YNxD",
     "before_after_image_W9q8Pt",
-    "impact_text_6w8qEH",
     "multi_column_6gNnWr",
-    "impact_text_cmhRQP",
     "multi_column_VFLqew",
     "featured_product_z3QpdL",
     "multi_column_L9KDG6",
