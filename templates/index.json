@@ -255,7 +255,7 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/Avis 4.mp4",
-            "column_size": "4",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h6",
             "content": "",
@@ -268,7 +268,7 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/Avis 2.mp4",
-            "column_size": "4",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h6",
             "content": "",
@@ -281,23 +281,10 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/Avis 1.mp4",
-            "column_size": "4",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h6",
             "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jwJcmN": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 3.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h6",
-            "content": "<p>“I always thought it was just stress or timing. But I realized I was constantly adjusting and never fully comfortable. This pillow changed that completely. Everything feels more natural and relaxed now — and I actually enjoy the moment more.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -307,8 +294,7 @@
       "block_order": [
         "item_LaVaQm",
         "item_YG7Whm",
-        "item_VDWm8N",
-        "item_jwJcmN"
+        "item_VDWm8N"
       ],
       "name": "Multi-column",
       "settings": {
