@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_wcX8pR": {
-          "type": "message",
-          "settings": {
-            "text": "End-of-Year Limited Offer – 50% OFF",
-            "url": ""
-          }
-        },
         "message_Yg7Jy6": {
           "type": "message",
           "settings": {
@@ -44,7 +37,6 @@
         }
       },
       "block_order": [
-        "message_wcX8pR",
         "message_Yg7Jy6",
         "message_cbMkaC",
         "message"
