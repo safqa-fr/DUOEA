@@ -123,129 +123,6 @@
         "logo_item_border": "rgba(0,0,0,0)"
       }
     },
-    "multi_column_H9YNxD": {
-      "type": "multi-column",
-      "blocks": {
-        "item_99ELBm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/xPillow_benefits.png",
-            "column_size": "1",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_99ELBm"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "<h2><strong>Why Choose xPillow ?</strong></h2>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "before_after_image_W9q8Pt": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "<h2><strong>Before & After Results</strong></h2>",
-        "before_image": "shopify://shop_images/before_xpillow.png",
-        "before_image_mobile": "shopify://shop_images/before_xpillow.png",
-        "after_image": "shopify://shop_images/after_xpillow.png",
-        "after_image_mobile": "shopify://shop_images/after_xpillow.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#5a514b",
-        "after_text_color": "#5a514b",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "multi_column_VFLqew": {
-      "type": "multi-column",
-      "blocks": {
-        "item_LaVaQm": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 4.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YG7Whm": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 2.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VDWm8N": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 1.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_LaVaQm",
-        "item_YG7Whm",
-        "item_VDWm8N"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "x-large",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "They say it better than we do",
-        "content": "<h5>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.</h5>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured_product_z3QpdL": {
       "type": "featured-product",
       "blocks": {
@@ -381,6 +258,129 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "multi_column_H9YNxD": {
+      "type": "multi-column",
+      "blocks": {
+        "item_99ELBm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/xPillow_benefits.png",
+            "column_size": "1",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_99ELBm"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h2><strong>Why Choose xPillow ?</strong></h2>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "before_after_image_W9q8Pt": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h2><strong>Before & After Results</strong></h2>",
+        "before_image": "shopify://shop_images/before_xpillow.png",
+        "before_image_mobile": "shopify://shop_images/before_xpillow.png",
+        "after_image": "shopify://shop_images/after_xpillow.png",
+        "after_image_mobile": "shopify://shop_images/after_xpillow.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#5a514b",
+        "after_text_color": "#5a514b",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "multi_column_VFLqew": {
+      "type": "multi-column",
+      "blocks": {
+        "item_LaVaQm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 4.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YG7Whm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 2.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VDWm8N": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 1.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_LaVaQm",
+        "item_YG7Whm",
+        "item_VDWm8N"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "x-large",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "They say it better than we do",
+        "content": "<h5>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.</h5>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_6gNnWr": {
@@ -680,10 +680,10 @@
   "order": [
     "image_with_text_overlay_zbKRxa",
     "logo_list_bGckkC",
+    "featured_product_z3QpdL",
     "multi_column_H9YNxD",
     "before_after_image_W9q8Pt",
     "multi_column_VFLqew",
-    "featured_product_z3QpdL",
     "multi_column_6gNnWr",
     "multi_column_L9KDG6",
     "17685047346a490066",
