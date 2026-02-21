@@ -30,7 +30,7 @@
           "type": "button",
           "settings": {
             "style": "fill",
-            "size": "sm",
+            "size": "base",
             "text": "Discover the difference",
             "url": "shopify://products/xpillow-sweet-spot-pillow",
             "background": "#c97a5d",
