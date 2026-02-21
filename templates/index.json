@@ -15,29 +15,29 @@
         "heading_nNmDbi": {
           "type": "heading",
           "settings": {
-            "text": "More Comfort. Deeper Connection.",
-            "heading_tag": "h2"
+            "text": "Feel closer. Move naturally. Stay comfortable.",
+            "heading_tag": "h1"
           }
         },
         "heading_jQfaF3": {
           "type": "heading",
           "settings": {
-            "text": "Designed to naturally support your body so intimacy feels easier, more comfortable, and more connected.",
-            "heading_tag": "h6"
+            "text": "Engineered at a precise 27° incline to support natural alignment and deeper connection — without strain.",
+            "heading_tag": "h3"
           }
         },
         "richtext_yDAq7g": {
           "type": "richtext",
           "settings": {
-            "content": "<p>• Supports natural alignment<br/>• Reduces pressure & strain<br/>• Designed for couples</p>"
+            "content": "<h3>• Supports natural alignment<br/>• Reduces pressure & strain<br/>• Designed for couples</h3>"
           }
         },
         "button_RiHrek": {
           "type": "button",
           "settings": {
             "style": "fill",
-            "size": "lg",
-            "text": "Experience the Difference",
+            "size": "xl",
+            "text": "Discover the difference",
             "url": "shopify://products/xpillow-sweet-spot-pillow",
             "background": "#c97a5d",
             "text_color": ""
@@ -46,7 +46,7 @@
         "richtext_VfR4YW": {
           "type": "richtext",
           "settings": {
-            "content": "<p>⭐⭐⭐⭐⭐ 4.8/5 from 13,482 couples<br/>Fast Shipping 4–6 days<br/>30-Day Guarantee<br/></p>"
+            "content": "<h6>⭐⭐⭐⭐⭐ 4.8/5 from 13,482 couples<br/>Fast Shipping 4–6 days<br/>30-Day Guarantee<br/></h6>"
           }
         }
       },
@@ -63,8 +63,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Hero_xPillow.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_20_fevr._2026_01_36_25.png",
+        "image": "shopify://shop_images/xPillow-Hero.png",
+        "mobile_image": "shopify://shop_images/xPillow-Hero.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
