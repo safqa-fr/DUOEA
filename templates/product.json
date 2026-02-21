@@ -79,17 +79,6 @@
             "size_chart_page": ""
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -121,7 +110,6 @@
         "text_FyDD89",
         "description",
         "variant_picker",
-        "buy_buttons",
         "quantity_selector",
         "text_YqyGXp",
         "image_CUFwjY"
@@ -264,63 +252,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "tabs_WmBQmQ": {
-      "type": "tabs",
-      "blocks": {
-        "tab_cAtVxD": {
-          "type": "tab",
-          "settings": {
-            "title": "xPillow® Product Features",
-            "content": "<h3><strong>Ergonomic Design & Angle</strong></h3><ul><li>Unique <strong>27° optimized incline</strong> designed to support natural body positioning<br/></li><li>Ergonomic <strong>wedge-shaped design</strong> for stable, balanced support<br/></li><li>Helps maintain a comfortable angle without slipping or collapsing<br/></li></ul><h3><strong>Foam & Support</strong></h3><ul><li><strong>High-density memory foam core</strong> for firm yet comfortable support<br/></li><li>Contours to the body while maintaining its shape<br/></li><li>Designed to resist sagging, even with repeated use<br/></li></ul><h3><strong>Comfort & Materials</strong></h3><ul><li><strong>Premium soft-touch cover</strong>, breathable and skin-friendly<br/></li><li><strong>Removable, machine-washable cover</strong> for easy care<br/></li><li><strong>Non-slip base</strong> to keep the pillow securely in place<br/></li></ul><h3><strong>Design & Practical Details</strong></h3><ul><li>Discreet, modern design that blends easily into any bedroom<br/></li><li><strong>Integrated side handles</strong> for easy repositioning<br/></li><li>Carefully sized to provide support without being bulky<br/></li></ul><h3><strong>Versatility & Use</strong></h3><ul><li>Suitable for lying or semi-seated positions<br/></li><li>Can be used as a <strong>back, waist, or hip support pillow</strong><br/></li><li>Ideal for relaxation, comfort, and positioning support<br/></li><li>Suitable for different body types<br/></li></ul><h3><strong>Quality & Safety</strong></h3><ul><li>Made from <strong>non-toxic, durable materials</strong><br/></li><li>Designed for <strong>long-lasting comfort and structural stability</strong><br/></li><li>Comfort product – <strong>non-medical use</strong></li></ul>",
-            "page": ""
-          }
-        },
-        "tab_a3EUK8": {
-          "type": "tab",
-          "settings": {
-            "title": "Try it risk-free for 30 days",
-            "content": "<p>Try the xPillow risk-free <strong>for 30 day</strong>s. If you are not completely satisfied with your xPillow, <strong>you may return it for a full refund</strong>.</p>",
-            "page": ""
-          }
-        },
-        "tab_9jcryB": {
-          "type": "tab",
-          "settings": {
-            "title": "Free Delivery to Your Door",
-            "content": "<p><strong>Free home delivery is included. </strong>Depending on the volume of orders being processed, delivery is estimated between <strong>5 and 7 business days</strong>.<br/></p>",
-            "page": ""
-          }
-        },
-        "tab_PqGrKR": {
-          "type": "tab",
-          "settings": {
-            "title": "7-day customer support",
-            "content": "<p>Our team is available to answer your questions seven days a week.</p><p>You can contact us by email during the following hours: <strong>Monday to Friday from 9:00 a.m. to 12:00 p.m. and from 2:00 p.m. to 6:00 p.m., and Saturday and Sunday from 10:00 a.m. to 12:00 p.m. </strong></p><p>Feel free to get in touch with us.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_cAtVxD",
-        "tab_a3EUK8",
-        "tab_9jcryB",
-        "tab_PqGrKR"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "multi_column_NhBgXE": {
       "type": "multi-column",
       "blocks": {
@@ -443,6 +374,63 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "tabs_WmBQmQ": {
+      "type": "tabs",
+      "blocks": {
+        "tab_cAtVxD": {
+          "type": "tab",
+          "settings": {
+            "title": "xPillow® Product Features",
+            "content": "<h3><strong>Ergonomic Design & Angle</strong></h3><ul><li>Unique <strong>27° optimized incline</strong> designed to support natural body positioning<br/></li><li>Ergonomic <strong>wedge-shaped design</strong> for stable, balanced support<br/></li><li>Helps maintain a comfortable angle without slipping or collapsing<br/></li></ul><h3><strong>Foam & Support</strong></h3><ul><li><strong>High-density memory foam core</strong> for firm yet comfortable support<br/></li><li>Contours to the body while maintaining its shape<br/></li><li>Designed to resist sagging, even with repeated use<br/></li></ul><h3><strong>Comfort & Materials</strong></h3><ul><li><strong>Premium soft-touch cover</strong>, breathable and skin-friendly<br/></li><li><strong>Removable, machine-washable cover</strong> for easy care<br/></li><li><strong>Non-slip base</strong> to keep the pillow securely in place<br/></li></ul><h3><strong>Design & Practical Details</strong></h3><ul><li>Discreet, modern design that blends easily into any bedroom<br/></li><li><strong>Integrated side handles</strong> for easy repositioning<br/></li><li>Carefully sized to provide support without being bulky<br/></li></ul><h3><strong>Versatility & Use</strong></h3><ul><li>Suitable for lying or semi-seated positions<br/></li><li>Can be used as a <strong>back, waist, or hip support pillow</strong><br/></li><li>Ideal for relaxation, comfort, and positioning support<br/></li><li>Suitable for different body types<br/></li></ul><h3><strong>Quality & Safety</strong></h3><ul><li>Made from <strong>non-toxic, durable materials</strong><br/></li><li>Designed for <strong>long-lasting comfort and structural stability</strong><br/></li><li>Comfort product – <strong>non-medical use</strong></li></ul>",
+            "page": ""
+          }
+        },
+        "tab_a3EUK8": {
+          "type": "tab",
+          "settings": {
+            "title": "Try it risk-free for 30 days",
+            "content": "<p>Try the xPillow risk-free <strong>for 30 day</strong>s. If you are not completely satisfied with your xPillow, <strong>you may return it for a full refund</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_9jcryB": {
+          "type": "tab",
+          "settings": {
+            "title": "Free Delivery to Your Door",
+            "content": "<p><strong>Free home delivery is included. </strong>Depending on the volume of orders being processed, delivery is estimated between <strong>5 and 7 business days</strong>.<br/></p>",
+            "page": ""
+          }
+        },
+        "tab_PqGrKR": {
+          "type": "tab",
+          "settings": {
+            "title": "7-day customer support",
+            "content": "<p>Our team is available to answer your questions seven days a week.</p><p>You can contact us by email during the following hours: <strong>Monday to Friday from 9:00 a.m. to 12:00 p.m. and from 2:00 p.m. to 6:00 p.m., and Saturday and Sunday from 10:00 a.m. to 12:00 p.m. </strong></p><p>Feel free to get in touch with us.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_cAtVxD",
+        "tab_a3EUK8",
+        "tab_9jcryB",
+        "tab_PqGrKR"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "176841230937754201": {
