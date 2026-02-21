@@ -16,27 +16,27 @@
           "type": "heading",
           "settings": {
             "text": "Feel closer. Move naturally. Stay comfortable.",
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "heading_jQfaF3": {
           "type": "heading",
           "settings": {
             "text": "Engineered at a precise 27° incline to support natural alignment and deeper connection — without strain.",
-            "heading_tag": "h4"
+            "heading_tag": "h6"
           }
         },
         "richtext_yDAq7g": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>• Supports natural alignment<br/>• Reduces pressure & strain<br/>• Designed for couples</h5>"
+            "content": "<p>• Supports natural alignment<br/>• Reduces pressure & strain<br/>• Designed for couples</p>"
           }
         },
         "button_RiHrek": {
           "type": "button",
           "settings": {
             "style": "fill",
-            "size": "xl",
+            "size": "sm",
             "text": "Discover the difference",
             "url": "shopify://products/xpillow-sweet-spot-pillow",
             "background": "#c97a5d",
@@ -64,7 +64,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/xPillow-Hero.png",
-        "mobile_image": "shopify://shop_images/xPillow-Hero.png",
+        "mobile_image": "shopify://shop_images/xPillow-Hero-mobile.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
