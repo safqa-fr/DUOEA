@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_L6Uqk7": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
+        },
         "message_Yg7Jy6": {
           "type": "message",
           "settings": {
@@ -38,12 +45,13 @@
         "message_UNyPi4": {
           "type": "message",
           "settings": {
-            "text": "💘 50% OFF — Limited Stock 💘",
+            "text": "💘 -50% OFF — Limited Stock 💘",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_L6Uqk7",
         "message_Yg7Jy6",
         "message_cbMkaC",
         "message",
