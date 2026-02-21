@@ -19,17 +19,10 @@
             "heading_tag": "h3"
           }
         },
-        "heading_jQfaF3": {
-          "type": "heading",
-          "settings": {
-            "text": "The precision 27° incline supports natural positioning so you can stay comfortable, connected, and relaxed longer.",
-            "heading_tag": "h6"
-          }
-        },
         "richtext_VfR4YW": {
           "type": "richtext",
           "settings": {
-            "content": "<p>✔ Effortless positioning<br/><br/>✔ Less arm & shoulder strain<br/><br/>✔ Designed for real comfort<br/><br/></p>"
+            "content": "<p>The precision 27° incline supports natural positioning so you can stay comfortable, connected, and relaxed longer.<br/>✔ Effortless positioning<br/>✔ Less arm & shoulder strain<br/>✔ Designed for real comfort</p>"
           }
         },
         "button_RiHrek": {
@@ -52,7 +45,6 @@
       },
       "block_order": [
         "heading_nNmDbi",
-        "heading_jQfaF3",
         "richtext_VfR4YW",
         "button_RiHrek",
         "richtext_Cajwez"
