@@ -148,6 +148,12 @@
             "show_taxes_notice": false
           }
         },
+        "text_WCY3JM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Most couples feel the difference in the first week</p>"
+          }
+        },
         "liquid_w63nXc": {
           "type": "liquid",
           "settings": {
@@ -229,6 +235,7 @@
         "title_FTaeAC",
         "badges_YQBfQ6",
         "price_yebrkk",
+        "text_WCY3JM",
         "liquid_w63nXc",
         "text_EqzCPU",
         "separator_npCfAm",
