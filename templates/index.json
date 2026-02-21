@@ -15,14 +15,14 @@
         "heading_nNmDbi": {
           "type": "heading",
           "settings": {
-            "text": "Feel closer. Move naturally. Stay comfortable.",
+            "text": "Engineered for deeper comfort and better positioning",
             "heading_tag": "h3"
           }
         },
         "heading_jQfaF3": {
           "type": "heading",
           "settings": {
-            "text": "Engineered at a precise 27° incline to support natural alignment and deeper connection — without strain.",
+            "text": "The 27° incline supports natural alignment so you can stay closer longer without strain.",
             "heading_tag": "h6"
           }
         },
@@ -31,7 +31,7 @@
           "settings": {
             "style": "fill",
             "size": "base",
-            "text": "Discover the difference",
+            "text": "Get yours now",
             "url": "shopify://products/xpillow-sweet-spot-pillow",
             "background": "#c97a5d",
             "text_color": ""
@@ -40,7 +40,7 @@
         "richtext_VfR4YW": {
           "type": "richtext",
           "settings": {
-            "content": "<h6>⭐ 4.8/5 from 13,482 couples<br/>Fast Shipping 4–6 days<br/>30-Day Guarantee<br/></h6>"
+            "content": "<p>✔ Improves positioning effortlessly<br/>✔ Reduces arm & shoulder strain<br/>✔ Designed for real comfort, not gimmicks<br/></p>"
           }
         }
       },
