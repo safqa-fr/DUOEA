@@ -26,12 +26,6 @@
             "heading_tag": "h6"
           }
         },
-        "richtext_yDAq7g": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>• Supports natural alignment<br/>• Reduces pressure & strain<br/>• Designed for couples</p>"
-          }
-        },
         "button_RiHrek": {
           "type": "button",
           "settings": {
@@ -53,7 +47,6 @@
       "block_order": [
         "heading_nNmDbi",
         "heading_jQfaF3",
-        "richtext_yDAq7g",
         "button_RiHrek",
         "richtext_VfR4YW"
       ],
