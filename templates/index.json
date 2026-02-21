@@ -16,20 +16,20 @@
           "type": "heading",
           "settings": {
             "text": "Feel closer. Move naturally. Stay comfortable.",
-            "heading_tag": "h1"
+            "heading_tag": "h2"
           }
         },
         "heading_jQfaF3": {
           "type": "heading",
           "settings": {
             "text": "Engineered at a precise 27° incline to support natural alignment and deeper connection — without strain.",
-            "heading_tag": "h3"
+            "heading_tag": "h4"
           }
         },
         "richtext_yDAq7g": {
           "type": "richtext",
           "settings": {
-            "content": "<h3>• Supports natural alignment<br/>• Reduces pressure & strain<br/>• Designed for couples</h3>"
+            "content": "<h5>• Supports natural alignment<br/>• Reduces pressure & strain<br/>• Designed for couples</h5>"
           }
         },
         "button_RiHrek": {
