@@ -22,8 +22,14 @@
         "heading_jQfaF3": {
           "type": "heading",
           "settings": {
-            "text": "The 27° incline supports natural alignment so you can stay closer longer without strain.",
+            "text": "The precision 27° incline supports natural positioning so you can stay comfortable, connected, and relaxed longer.",
             "heading_tag": "h6"
+          }
+        },
+        "richtext_VfR4YW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>✔ Effortless positioning<br/><br/>✔ Less arm & shoulder strain<br/><br/>✔ Designed for real comfort<br/><br/></p>"
           }
         },
         "button_RiHrek": {
@@ -37,18 +43,19 @@
             "text_color": ""
           }
         },
-        "richtext_VfR4YW": {
+        "richtext_Cajwez": {
           "type": "richtext",
           "settings": {
-            "content": "<p>✔ Improves positioning effortlessly<br/>✔ Reduces arm & shoulder strain<br/>✔ Designed for real comfort, not gimmicks<br/></p>"
+            "content": "<p>⭐ 4.8/5 — 13,000+ couples<br/>Free shipping 4–6 days<br/>30-day guarantee<br/></p>"
           }
         }
       },
       "block_order": [
         "heading_nNmDbi",
         "heading_jQfaF3",
+        "richtext_VfR4YW",
         "button_RiHrek",
-        "richtext_VfR4YW"
+        "richtext_Cajwez"
       ],
       "name": "Image with text overlay",
       "settings": {
