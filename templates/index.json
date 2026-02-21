@@ -64,63 +64,127 @@
         "overlay_opacity": 30
       }
     },
-    "logo_list_bGckkC": {
-      "type": "logo-list",
+    "logo_carousel_qUyxyn": {
+      "type": "logo-carousel",
       "blocks": {
-        "logo_qjyajJ": {
+        "logo_ncfKrN": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_width": 200,
-            "link": ""
+            "logo_height": 100,
+            "logo_max_width": 200
           }
         },
-        "logo_LDYPVK": {
+        "logo_LmJCYa": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Womens-Health-logo.png",
-            "logo_width": 200,
-            "link": ""
+            "logo_height": 100,
+            "logo_max_width": 200
           }
         },
-        "logo_Mixxze": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
-            "logo_width": 200,
-            "link": ""
-          }
-        },
-        "logo_MXLjkU": {
+        "logo_A6fWi6": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
-            "logo_width": 150,
-            "link": ""
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_PTcXwK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
+            "logo_height": 100,
+            "logo_max_width": 200
+          }
+        },
+        "logo_j9Rdhg": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_height": 100,
+            "logo_max_width": 200
+          }
+        },
+        "logo_46J8tY": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Womens-Health-logo.png",
+            "logo_height": 100,
+            "logo_max_width": 200
+          }
+        },
+        "logo_6NBYB7": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_jCXJkR": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
+            "logo_height": 100,
+            "logo_max_width": 200
+          }
+        },
+        "logo_QVCzD9": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_height": 100,
+            "logo_max_width": 200
+          }
+        },
+        "logo_39B4Qr": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Womens-Health-logo.png",
+            "logo_height": 100,
+            "logo_max_width": 200
+          }
+        },
+        "logo_CidJc7": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_yYwjpk": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
+            "logo_height": 100,
+            "logo_max_width": 200
           }
         }
       },
       "block_order": [
-        "logo_qjyajJ",
-        "logo_LDYPVK",
-        "logo_Mixxze",
-        "logo_MXLjkU"
+        "logo_ncfKrN",
+        "logo_LmJCYa",
+        "logo_A6fWi6",
+        "logo_PTcXwK",
+        "logo_j9Rdhg",
+        "logo_46J8tY",
+        "logo_6NBYB7",
+        "logo_jCXJkR",
+        "logo_QVCzD9",
+        "logo_39B4Qr",
+        "logo_CidJc7",
+        "logo_yYwjpk"
       ],
-      "name": "Logo list",
+      "name": "Logo carousel",
       "settings": {
-        "full_width": true,
-        "stack_mobile": false,
-        "title": "",
-        "content": "<h2><strong>Seen on:</strong></h2>",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": "rgba(0,0,0,0)"
+        "bg_color": "#ffffff",
+        "section_height": 90,
+        "carousel_width": 100,
+        "speed": 30,
+        "gap": 40
       }
     },
     "featured_product_z3QpdL": {
@@ -686,7 +750,7 @@
   },
   "order": [
     "image_with_text_overlay_zbKRxa",
-    "logo_list_bGckkC",
+    "logo_carousel_qUyxyn",
     "featured_product_z3QpdL",
     "multi_column_H9YNxD",
     "before_after_image_W9q8Pt",
