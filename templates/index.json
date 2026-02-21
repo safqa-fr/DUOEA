@@ -283,16 +283,11 @@
             "text": "<p>Fast US shipping • Discreet packaging</p>"
           }
         },
-        "buy_buttons_8zdr8A": {
-          "type": "buy_buttons",
-          "name": "Buy now !",
+        "kaching_bundles_app_block_LrVwh3": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "#c97a5d",
-            "payment_button_text_color": ""
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
           }
         },
         "text_NNfQeC": {
@@ -331,7 +326,7 @@
         "description_dT6VxV",
         "variant_picker_ezfTaH",
         "text_h8LabC",
-        "buy_buttons_8zdr8A",
+        "kaching_bundles_app_block_LrVwh3",
         "text_NNfQeC",
         "quantity_selector_a8QCzX",
         "image_DPg4pr",

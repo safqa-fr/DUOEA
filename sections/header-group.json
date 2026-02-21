@@ -45,7 +45,7 @@
         "message_UNyPi4": {
           "type": "message",
           "settings": {
-            "text": "💘 -50% OFF — Limited Stock 💘",
+            "text": "💘 + Winter Comfort Event — 50% OFF | Limited Time 💘",
             "url": ""
           }
         }
@@ -59,7 +59,7 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "autoplay": false,
+        "autoplay": true,
         "cycle_speed": 4,
         "text_size": "text-base",
         "navigation_mode": "scrolling",
