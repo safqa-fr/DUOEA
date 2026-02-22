@@ -15,21 +15,21 @@
         "heading_nNmDbi": {
           "type": "heading",
           "settings": {
-            "text": "Engineered for deeper comfort and better positioning",
-            "heading_tag": "h3"
+            "text": "Bring Back The Fire Between You",
+            "heading_tag": "h5"
           }
         },
         "richtext_VfR4YW": {
           "type": "richtext",
           "settings": {
-            "content": "<p>The precision 27° incline supports natural positioning so you can stay comfortable, connected, and relaxed longer.<br/>✔ Effortless positioning<br/>✔ Less arm & shoulder strain<br/>✔ Designed for real comfort</p>"
+            "content": "<h6>Designed to enhance closeness, deepen connection, and unlock the experience you’ve been missing.</h6>"
           }
         },
         "button_RiHrek": {
           "type": "button",
           "settings": {
             "style": "fill",
-            "size": "base",
+            "size": "sm",
             "text": "Get yours now",
             "url": "shopify://products/xpillow-sweet-spot-pillow",
             "background": "#c97a5d",
@@ -39,7 +39,7 @@
         "richtext_Cajwez": {
           "type": "richtext",
           "settings": {
-            "content": "<p>⭐ 4.8/5 — 13,000+ couples<br/>Free shipping 4–6 days<br/>30-day guarantee<br/></p>"
+            "content": "<h6>⭐ 4.8/5 — 13,000+ couples<br/>Free shipping 4–6 days<br/>30-day guarantee<br/></h6>"
           }
         }
       },
