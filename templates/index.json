@@ -35,19 +35,12 @@
             "background": "#c97a5d",
             "text_color": ""
           }
-        },
-        "richtext_Cajwez": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h6>⭐ 4.8/5 — 13,000+ couples<br/>Free shipping 4–6 days<br/>30-day guarantee<br/></h6>"
-          }
         }
       },
       "block_order": [
         "heading_nNmDbi",
         "richtext_VfR4YW",
-        "button_RiHrek",
-        "richtext_Cajwez"
+        "button_RiHrek"
       ],
       "name": "Image with text overlay",
       "settings": {
