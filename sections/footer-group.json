@@ -20,11 +20,11 @@
             "icon": "picto-box",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background_type": "circle",
+            "icon_background": "rgba(0,0,0,0)",
+            "icon_color": "#6d071a",
             "title": "Global Insured Shipping",
-            "content": "<p>Enjoy free tracked delivery on all orders. Each package is carefully handled and shipped within 24–48 hours to ensure your comfort arrives as soon as possible.</p>"
+            "content": ""
           }
         },
         "customer-support": {
@@ -33,24 +33,24 @@
             "icon": "picto-customer-support",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
+            "icon_background_type": "circle",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#6d071a",
             "title": "24/7 Dedicated Support",
-            "content": "<p>Our team is here for you every step of the way. If you have any questions or need assistance, contact us at <strong>hello@x-pillow.com</strong> and we’ll get back to you within 24 hours.</p>"
+            "content": ""
           }
         },
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-return",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background_type": "circle",
+            "icon_background": "rgba(0,0,0,0)",
+            "icon_color": "#6d071a",
             "title": "30-Night Risk-Free Trial",
-            "content": "<p>Your satisfaction is our priority. Try the xPillow in the comfort of your home for 30 nights. If it doesn’t transform your experience, we offer a hassle-free full refund.</p>"
+            "content": ""
           }
         },
         "payment": {
@@ -59,11 +59,11 @@
             "icon": "picto-lock",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background_type": "circle",
+            "icon_background": "rgba(0,0,0,0)",
+            "icon_color": "#6d071a",
             "title": "Secure & Encrypted Checkout",
-            "content": "<p>Shop with total peace of mind. We use industry-standard SSL encryption to protect your data, and we accept all major credit cards, PayPal, and Klarna for a seamless experience.</p>"
+            "content": ""
           }
         }
       },
@@ -80,7 +80,7 @@
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "",
+        "background": "#f4efea",
         "background_gradient": "",
         "text_color": ""
       }

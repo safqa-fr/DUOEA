@@ -309,6 +309,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_w63nXc": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    /* background-color: #ffcccc; */ /* Background removed */\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Low stock</div>\n</div>"
+          }
+        },
         "badges_YQBfQ6": {
           "type": "badges",
           "settings": {}
@@ -317,24 +323,6 @@
           "type": "price",
           "settings": {
             "show_taxes_notice": false
-          }
-        },
-        "text_WCY3JM": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Most couples feel the difference in the first week</p>"
-          }
-        },
-        "liquid_w63nXc": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge</title>\n<style>\n.unique-body-abc123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n  transform: scale(0.8); /* Tüm bileşenleri orantılı küçültme */\n}\n\n.unique-badge-def456 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 3px 5px; /* Küçültülmüş padding */\n  border-radius: 5px; /* Orantılı yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-flame-icon-ghi789, .unique-clock-icon-jkl012 {\n  margin-right: 4px; /* Küçültülmüş boşluk */\n  display: inline-block;\n  position: relative;\n  vertical-align: middle;\n}\n\n.unique-flame-icon-ghi789 svg, .unique-clock-icon-jkl012 svg {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n}\n\n.unique-flame-icon-ghi789 svg {\n  animation: unique-flame-animation-mno345 2s infinite;\n}\n\n.unique-clock-icon-jkl012 svg {\n  animation: unique-clock-animation-pqr678 2s infinite;\n}\n\n@keyframes unique-flame-animation-mno345 {\n  0%, 100% {\n    transform: scale(1);\n  }\n  50% {\n    transform: scale(1.2);\n  }\n}\n\n@keyframes unique-clock-animation-pqr678 {\n  0%, 100% {\n    transform: rotate(0deg);\n  }\n  50% {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-badge-def456 span {\n  display: flex;\n  align-items: center;\n}\n</style>\n</head>\n<body class=\"unique-body-abc123\">\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-flame-icon-ghi789\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill=\"#FF4500\" d=\"M32 2C19 15 9 26 9 38c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14s-14 6-14 14c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14S18 22 18 30c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14z\"/>\n      </svg>\n    </div>\n    8 items left at this price\n  </span>\n</div>\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-clock-icon-jkl012\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"32\" cy=\"32\" r=\"30\" stroke=\"#b22222\" stroke-width=\"4\" fill=\"none\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"4\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#b22222\" stroke-width=\"4\"/>\n      </svg>\n    </div>\n    Limited stock available!\n  </span>\n</div>\n\n</body>\n</html>"
-          }
-        },
-        "text_EqzCPU": {
-          "type": "text",
-          "settings": {
-            "text": "<h6><strong>Upgrade comfort tonight. Try it risk-free.<br/></strong>✔ Feel the difference from the first use<br/>✔ Stay comfortable longer without constant adjusting<br/>✔ Less strain, more connection<br/>✔ Engineered to support real positioning</h6>"
           }
         },
         "separator_npCfAm": {
@@ -358,12 +346,6 @@
             "swatch_selector_style": "swatch",
             "variant_image_options": "",
             "size_chart_page": ""
-          }
-        },
-        "text_h8LabC": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Fast US shipping • Discreet packaging</p>"
           }
         },
         "quantity_selector_a8QCzX": {
@@ -404,15 +386,12 @@
       "block_order": [
         "liquid_kzAgck",
         "title_FTaeAC",
+        "liquid_w63nXc",
         "badges_YQBfQ6",
         "price_yebrkk",
-        "text_WCY3JM",
-        "liquid_w63nXc",
-        "text_EqzCPU",
         "separator_npCfAm",
         "description_dT6VxV",
         "variant_picker_ezfTaH",
-        "text_h8LabC",
         "quantity_selector_a8QCzX",
         "buy_buttons_QeDPPU",
         "image_DPg4pr",
@@ -436,152 +415,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "multi_column_6gNnWr": {
-      "type": "multi-column",
-      "blocks": {
-        "item_rRctVi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF.gif",
-            "column_size": "3",
-            "title": "PERFECT ANGLE",
-            "heading_tag": "h4",
-            "content": "<h6>The precise 27° incline gently elevates the pelvis to encourage natural alignment, improved control, and enhanced comfort.</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_htKMMK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF2_4790babf-a510-4048-a8c3-4ae3ac88f9e1.gif",
-            "column_size": "3",
-            "title": "LESS PRESSURE. MORE CONNECTION.",
-            "heading_tag": "h4",
-            "content": "<h6>Balanced support helps reduce tension on the hips and lower back so you can stay focused on the moment.</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AXTTFx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Video.gif",
-            "column_size": "3",
-            "title": "DOES THE WORK FOR YOU",
-            "heading_tag": "h4",
-            "content": "<h6>The self-positioning design naturally guides your body into the optimal position without constant readjustment.</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_rRctVi",
-        "item_htKMMK",
-        "item_AXTTFx"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "x-large",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "The Engineering Behind the Experience",
-        "content": "<h6>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</h6>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_L9KDG6": {
-      "type": "multi-column",
-      "blocks": {
-        "item_8bh9XJ": {
-          "type": "item",
-          "settings": {
-            "column_size": "2",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_36Nk6w": {
-          "type": "item",
-          "settings": {
-            "column_size": "2",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_8bh9XJ",
-        "item_36Nk6w"
-      ],
-      "disabled": true,
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Before & After Results",
-        "content": "<h4>Expert-Approved.<br/>We don’t make promises. We show real results.</h4>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "17685047346a490066": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_carousel_edxGkF": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-carousel/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "corner-radius": 40,
-            "items-per-view": 2,
-            "items-per-view-mobile": 3,
-            "max-characters": 180,
-            "autoplay": false,
-            "autoplay-delay": 5,
-            "main-color": "#ae8868",
-            "stars-color": "#00a341",
-            "show-review-text": true,
-            "text-color": "",
-            "reviewer-name-color": "",
-            "verified-badge-color": "",
-            "quote-marks-icon": "style-1",
-            "quote-marks-icon-color": "",
-            "review-background-color": "",
-            "product-ids": ""
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_carousel_edxGkF"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "tabs_bwCTBc": {
@@ -634,11 +467,58 @@
         "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
-        "background": "",
+        "background": "#f4efea",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#6d071a",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "multi_column_L9KDG6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_8bh9XJ": {
+          "type": "item",
+          "settings": {
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_36Nk6w": {
+          "type": "item",
+          "settings": {
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_8bh9XJ",
+        "item_36Nk6w"
+      ],
+      "disabled": true,
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Before & After Results",
+        "content": "<h4>Expert-Approved.<br/>We don’t make promises. We show real results.</h4>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq_XmVLY9": {
@@ -699,15 +579,15 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#f4efea",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#6d071a",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "#f4efea",
-        "button_text_color": "#1a1a1a",
+        "button_text_color": "#6d071a",
         "accordion_background": "#f4efea",
-        "accordion_text_color": "#1a1a1a"
+        "accordion_text_color": "#6d071a"
       }
     },
     "contact_LWmMLj": {
@@ -717,18 +597,55 @@
         "full_width": true,
         "subheading": "Our customer support is available Monday to Friday: 8am-8:30pm. Average answer time: 24h",
         "title": "",
-        "content": "<h1><strong>Do you have any question?</strong></h1>",
+        "content": "<h2><strong>Do you have any question?</strong></h2>",
         "text_position": "center",
         "contact_form_size": "small",
-        "background": "",
+        "background": "#f4efea",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#6d071a",
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "#f4efea",
-        "contact_text_color": "",
-        "button_background": "#e07a5f",
+        "contact_text_color": "#6d071a",
+        "button_background": "#6d071a",
         "button_text_color": ""
+      }
+    },
+    "17685047346a490066": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_carousel_edxGkF": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-carousel/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "corner-radius": 40,
+            "items-per-view": 2,
+            "items-per-view-mobile": 3,
+            "max-characters": 180,
+            "autoplay": false,
+            "autoplay-delay": 5,
+            "main-color": "#ae8868",
+            "stars-color": "#00a341",
+            "show-review-text": true,
+            "text-color": "",
+            "reviewer-name-color": "",
+            "verified-badge-color": "",
+            "quote-marks-icon": "style-1",
+            "quote-marks-icon-color": "",
+            "review-background-color": "",
+            "product-ids": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_carousel_edxGkF"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "#f4efea",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
@@ -739,11 +656,10 @@
     "before_after_image_N8jMhj",
     "multi_column_VFLqew",
     "featured_product_z3QpdL",
-    "multi_column_6gNnWr",
-    "multi_column_L9KDG6",
-    "17685047346a490066",
     "tabs_bwCTBc",
+    "multi_column_L9KDG6",
     "faq_XmVLY9",
-    "contact_LWmMLj"
+    "contact_LWmMLj",
+    "17685047346a490066"
   ]
 }
