@@ -32,7 +32,7 @@
             "size": "sm",
             "text": "Rediscover Your Connection",
             "url": "shopify://products/xpillow-sweet-spot-pillow",
-            "background": "#c97a5d",
+            "background": "#6d071a",
             "text_color": ""
           }
         }
@@ -60,120 +60,111 @@
     "logo_carousel_qUyxyn": {
       "type": "logo-carousel",
       "blocks": {
-        "logo_ncfKrN": {
+        "logo_PNJJVe": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_height": 100,
-            "logo_max_width": 200
-          }
-        },
-        "logo_LmJCYa": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Womens-Health-logo.png",
-            "logo_height": 100,
-            "logo_max_width": 200
-          }
-        },
-        "logo_A6fWi6": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
+            "logo": "shopify://shop_images/Cosmopolitan.webp",
             "logo_height": 60,
             "logo_max_width": 160
           }
         },
-        "logo_PTcXwK": {
+        "logo_L64djB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
-            "logo_height": 100,
-            "logo_max_width": 200
-          }
-        },
-        "logo_j9Rdhg": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_height": 100,
-            "logo_max_width": 200
-          }
-        },
-        "logo_46J8tY": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Womens-Health-logo.png",
-            "logo_height": 100,
-            "logo_max_width": 200
-          }
-        },
-        "logo_6NBYB7": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
+            "logo": "shopify://shop_images/BuzzFeed.webp",
             "logo_height": 60,
             "logo_max_width": 160
           }
         },
-        "logo_jCXJkR": {
+        "logo_MXwnkW": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
-            "logo_height": 100,
-            "logo_max_width": 200
-          }
-        },
-        "logo_QVCzD9": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_height": 100,
-            "logo_max_width": 200
-          }
-        },
-        "logo_39B4Qr": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Womens-Health-logo.png",
-            "logo_height": 100,
-            "logo_max_width": 200
-          }
-        },
-        "logo_CidJc7": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
+            "logo": "shopify://shop_images/WomensHealth.webp",
             "logo_height": 60,
             "logo_max_width": 160
           }
         },
-        "logo_yYwjpk": {
+        "logo_aXrW9e": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
-            "logo_height": 100,
-            "logo_max_width": 200
+            "logo": "shopify://shop_images/WomensHealth.webp",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_9jx63m": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/GQ.webp",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_LfNeNn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/MensHealth.webp",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_nRxqMw": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan.webp",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_gYkfq6": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/BuzzFeed.webp",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_9dkktp": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/WomensHealth.webp",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_WBfVPU": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/GQ.webp",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_EP9f6B": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/MensHealth.webp",
+            "logo_height": 60,
+            "logo_max_width": 160
           }
         }
       },
       "block_order": [
-        "logo_ncfKrN",
-        "logo_LmJCYa",
-        "logo_A6fWi6",
-        "logo_PTcXwK",
-        "logo_j9Rdhg",
-        "logo_46J8tY",
-        "logo_6NBYB7",
-        "logo_jCXJkR",
-        "logo_QVCzD9",
-        "logo_39B4Qr",
-        "logo_CidJc7",
-        "logo_yYwjpk"
+        "logo_PNJJVe",
+        "logo_L64djB",
+        "logo_MXwnkW",
+        "logo_aXrW9e",
+        "logo_9jx63m",
+        "logo_LfNeNn",
+        "logo_nRxqMw",
+        "logo_gYkfq6",
+        "logo_9dkktp",
+        "logo_WBfVPU",
+        "logo_EP9f6B"
       ],
       "name": "Logo carousel",
       "settings": {
-        "bg_color": "#f4efea",
+        "bg_color": "#6d071a",
         "section_height": 90,
         "carousel_width": 100,
         "speed": 30,
@@ -276,6 +267,10 @@
             "text": "<p>Fast US shipping • Discreet packaging</p>"
           }
         },
+        "quantity_selector_a8QCzX": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
         "buy_buttons_QeDPPU": {
           "type": "buy_buttons",
           "settings": {
@@ -287,29 +282,19 @@
             "payment_button_text_color": ""
           }
         },
+        "image_DPg4pr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Free_shipping.png",
+            "alignment": "center",
+            "max_width": 400
+          }
+        },
         "kaching_bundles_app_block_LrVwh3": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "{{section.settings.product}}",
             "manual_deal_block_id": ""
-          }
-        },
-        "text_NNfQeC": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Discreet shipping<br/>30-day risk-free guarantee<br/>Trusted by 13,482+ couples</p>"
-          }
-        },
-        "quantity_selector_a8QCzX": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "image_DPg4pr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_21_18_08-Photoroom_430x_e34f231c-fc72-4563-b697-cab66f87391c.avif",
-            "alignment": "center",
-            "max_width": 500
           }
         },
         "pickup_availability_jcxXhi": {
@@ -330,11 +315,10 @@
         "description_dT6VxV",
         "variant_picker_ezfTaH",
         "text_h8LabC",
-        "buy_buttons_QeDPPU",
-        "kaching_bundles_app_block_LrVwh3",
-        "text_NNfQeC",
         "quantity_selector_a8QCzX",
+        "buy_buttons_QeDPPU",
         "image_DPg4pr",
+        "kaching_bundles_app_block_LrVwh3",
         "pickup_availability_jcxXhi"
       ],
       "name": "Featured product",
@@ -349,7 +333,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#f4efea",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -362,7 +346,7 @@
         "item_99ELBm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/xPillow_benefits.png",
+            "image": "shopify://shop_images/xPillow_benefits_2_80c31256-c3a1-4007-96fe-3b418cb2a13a.png",
             "column_size": "1",
             "title": "",
             "heading_tag": "h4",
@@ -385,9 +369,9 @@
         "subheading": "",
         "title": "",
         "content": "<h2><strong>Why Choose xPillow ?</strong></h2>",
-        "background": "",
+        "background": "#f4efea",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#6d071a"
       }
     },
     "before_after_image_W9q8Pt": {
