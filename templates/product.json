@@ -24,6 +24,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_8wV8xU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    /* background-color: #ffcccc; */ /* Background removed */\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Low stock</div>\n</div>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -60,17 +66,34 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "liquid_NUkNhk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "image_cttNwk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Free_shipping.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
         "liquid_AQBCrE",
         "title",
+        "liquid_8wV8xU",
         "badges",
         "price",
         "payment_terms",
         "description",
         "quantity_selector",
-        "buy_buttons_qp79Nn"
+        "buy_buttons_qp79Nn",
+        "liquid_NUkNhk",
+        "image_cttNwk"
       ],
       "settings": {
         "full_width": true,
@@ -90,254 +113,10 @@
         "input_text_color": ""
       }
     },
-    "logo_list_9eMx7X": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_UVM6BC": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_width": 200,
-            "link": ""
-          }
-        },
-        "logo_nUpUR9": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Womens-Health-logo.png",
-            "logo_width": 200,
-            "link": ""
-          }
-        },
-        "logo_mbGnq8": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/da21ea0b-28d8-4b96-b657-73fb6d842177.png",
-            "logo_width": 200,
-            "link": ""
-          }
-        },
-        "logo_BcnWyc": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/48f7618c-ad20-42f5-95db-dd27c835eaf0.png",
-            "logo_width": 150,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_UVM6BC",
-        "logo_nUpUR9",
-        "logo_mbGnq8",
-        "logo_BcnWyc"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": false,
-        "title": "",
-        "content": "<h2><strong>Seen on:</strong></h2>",
-        "text_alignment": "center",
-        "items_per_row": 7,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": "rgba(0,0,0,0)"
-      }
-    },
-    "multi_column_4P9bw9": {
-      "type": "multi-column",
-      "blocks": {
-        "item_RA4i66": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/xPillow_benefits.png",
-            "column_size": "1",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_RA4i66"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "<h2><strong>Why Choose xPillow ?</strong></h2>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "before_after_image_bPcBjd": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "<h2><strong>Before & After Results</strong></h2>",
-        "before_image": "shopify://shop_images/before_xpillow.png",
-        "before_image_mobile": "shopify://shop_images/before_xpillow.png",
-        "after_image": "shopify://shop_images/after_xpillow.png",
-        "after_image_mobile": "shopify://shop_images/after_xpillow.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#5a514b",
-        "after_text_color": "#5a514b",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "multi_column_NhBgXE": {
-      "type": "multi-column",
-      "blocks": {
-        "item_CnJfDq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF.gif",
-            "column_size": "3",
-            "title": "PERFECT ANGLE",
-            "heading_tag": "h4",
-            "content": "<h6>The precise 27° incline gently elevates the pelvis to encourage natural alignment, improved control, and enhanced comfort.</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_GbMnLa": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF2_4790babf-a510-4048-a8c3-4ae3ac88f9e1.gif",
-            "column_size": "3",
-            "title": "LESS PRESSURE. MORE CONNECTION.",
-            "heading_tag": "h4",
-            "content": "<h6>Balanced support helps reduce tension on the hips and lower back so you can stay focused on the moment.</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_izQCxM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Video.gif",
-            "column_size": "3",
-            "title": "DOES THE WORK FOR YOU",
-            "heading_tag": "h4",
-            "content": "<h6>The self-positioning design naturally guides your body into the optimal position without constant readjustment.</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_CnJfDq",
-        "item_GbMnLa",
-        "item_izQCxM"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "x-large",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "The Engineering Behind the Experience",
-        "content": "<h6>Developed in collaboration with women’s health experts and engineered with precision to support natural positioning, reduce pressure, and enhance your overall experience.</h6>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_9ihBTN": {
-      "type": "multi-column",
-      "blocks": {
-        "item_Q8Hrfw": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 4.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TBUUjV": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 2.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gpm3wj": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Avis 1.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_Q8Hrfw",
-        "item_TBUUjV",
-        "item_gpm3wj"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "x-large",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "They say it better than we do",
-        "content": "<h5>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.</h5>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "tabs_WmBQmQ": {
+    "tabs_hrmLcn": {
       "type": "tabs",
       "blocks": {
-        "tab_cAtVxD": {
+        "tab_PfDXyQ": {
           "type": "tab",
           "settings": {
             "title": "xPillow® Product Features",
@@ -345,7 +124,7 @@
             "page": ""
           }
         },
-        "tab_a3EUK8": {
+        "tab_BPVUkx": {
           "type": "tab",
           "settings": {
             "title": "Try it risk-free for 30 days",
@@ -353,7 +132,7 @@
             "page": ""
           }
         },
-        "tab_9jcryB": {
+        "tab_HtLCaL": {
           "type": "tab",
           "settings": {
             "title": "Free Delivery to Your Door",
@@ -361,7 +140,7 @@
             "page": ""
           }
         },
-        "tab_PqGrKR": {
+        "tab_VDqFXz": {
           "type": "tab",
           "settings": {
             "title": "7-day customer support",
@@ -371,10 +150,10 @@
         }
       },
       "block_order": [
-        "tab_cAtVxD",
-        "tab_a3EUK8",
-        "tab_9jcryB",
-        "tab_PqGrKR"
+        "tab_PfDXyQ",
+        "tab_BPVUkx",
+        "tab_HtLCaL",
+        "tab_VDqFXz"
       ],
       "name": "Tabs",
       "settings": {
@@ -384,33 +163,15 @@
         "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
-        "background": "",
+        "background": "#f4efea",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#6d071a",
         "heading_color": "",
         "heading_gradient": ""
       }
     },
     "176841230937754201": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_bCaMDC": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "reviews_to_display": "",
-            "default_tab": "automatic",
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_bCaMDC"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -423,12 +184,7 @@
   },
   "order": [
     "main",
-    "logo_list_9eMx7X",
-    "multi_column_4P9bw9",
-    "before_after_image_bPcBjd",
-    "multi_column_NhBgXE",
-    "multi_column_9ihBTN",
-    "tabs_WmBQmQ",
+    "tabs_hrmLcn",
     "176841230937754201"
   ]
 }
