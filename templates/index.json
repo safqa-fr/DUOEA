@@ -359,6 +359,68 @@
         "text_color": ""
       }
     },
+    "multi_column_aPd3VU": {
+      "type": "multi-column",
+      "blocks": {
+        "item_EkDNna": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/GIF.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rD6fwc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/GIF2_4790babf-a510-4048-a8c3-4ae3ac88f9e1.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8gagP3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Video.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_EkDNna",
+        "item_rD6fwc",
+        "item_8gagP3"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multiple_images_with_text_4tXm9R": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -806,6 +868,7 @@
     "logo_carousel_qUyxyn",
     "featured_product_z3QpdL",
     "rich_text_4aJRnh",
+    "multi_column_aPd3VU",
     "multiple_images_with_text_4tXm9R",
     "before_after_image_N8jMhj",
     "multi_column_AzTJFV",
