@@ -369,7 +369,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p><strong>✓ FEEL CLOSER INSTANTLY</strong><br/>Designed to bring partners closer naturally for a more connected experience.</p><p><strong>✓ FIND YOUR PERFECT ANGLE</strong><br/>Helps you achieve the ideal position effortlessly without constant adjustments.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -382,7 +382,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p><strong>✓ MOVE FREELY WITH SUPPORT</strong><br/>Move naturally while maintaining stable, reliable support at all times.</p><p><strong>✓ TARGETED SUPPORT WHERE NEEDED</strong><br/>Provides precise support exactly where your body needs it most.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -395,7 +395,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p><strong>✓ FEWER ADJUSTMENTS NEEDED</strong><br/>Reduces the need to reposition so the experience stays smooth and uninterrupted.</p><p><strong>✓ TRUE ERGONOMIC SUPPORT</strong><br/>Even pressure distribution helps reduce discomfort and improves overall comfort</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -451,6 +451,7 @@
         "item_f69rha",
         "item_66CP8e"
       ],
+      "disabled": true,
       "name": "Multiple images with text",
       "settings": {
         "full_width": true,
@@ -480,7 +481,7 @@
         "before_after_text_position": "top",
         "before_text": "Before",
         "after_text": "After",
-        "drag_initial_position": 80,
+        "drag_initial_position": 50,
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#000000",
