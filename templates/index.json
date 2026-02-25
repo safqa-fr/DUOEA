@@ -29,7 +29,7 @@
           "type": "button",
           "settings": {
             "style": "fill",
-            "size": "sm",
+            "size": "lg",
             "text": "Rediscover Your Connection",
             "url": "shopify://products/xpillow-sweet-spot-pillow",
             "background": "#6d071a",
@@ -333,38 +333,72 @@
         "input_text_color": ""
       }
     },
-    "multi_column_H9YNxD": {
-      "type": "multi-column",
+    "rich_text_4aJRnh": {
+      "type": "rich-text",
       "blocks": {
-        "item_99ELBm": {
-          "type": "item",
+        "heading_gLp8D4": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/xPillow_benefits_2_80c31256-c3a1-4007-96fe-3b418cb2a13a.png",
-            "column_size": "1",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "Why choose xPillow?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "item_99ELBm"
+        "heading_gLp8D4"
       ],
-      "name": "Multi-column",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "<h2>Why Choose xPillow ?</h2>",
-        "background": "#f4efea",
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#6d071a"
+        "text_color": ""
+      }
+    },
+    "multiple_images_with_text_4tXm9R": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_f69rha": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "",
+            "content": "<p><strong>✓ FEEL CLOSER INSTANTLY</strong><br/>Designed to bring partners closer naturally for a more connected experience.</p><p><strong>✓ FIND YOUR PERFECT ANGLE</strong><br/>Helps you achieve the ideal position effortlessly without constant adjustments.</p><p><strong>✓ MOVE FREELY WITH SUPPORT</strong><br/>Move naturally while maintaining stable, reliable support at all times.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_66CP8e": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "",
+            "content": "<p><strong>✓ TARGETED SUPPORT WHERE NEEDED</strong><br/>Provides precise support exactly where your body needs it most.</p><p><strong>✓ FEWER ADJUSTMENTS NEEDED</strong><br/>Reduces the need to reposition so the experience stays smooth and uninterrupted.</p><p><strong>✓ TRUE ERGONOMIC SUPPORT</strong><br/>Even pressure distribution helps reduce discomfort and improves overall comfort.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_f69rha",
+        "item_66CP8e"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "before_after_image_N8jMhj": {
@@ -374,24 +408,96 @@
         "full_width": true,
         "subheading": "",
         "title": "Designed for Real Couples",
-        "content": "<p>Find the right angle instantly.<br/>Less pressure, more comfort.</p><p>The 27° ergonomic lift supports your body so you can stay comfortable and feel closer without effort.</p>",
+        "content": "<p>The 27° ergonomic lift supports your body so you can stay comfortable and feel closer without effort.</p>",
         "before_image": "shopify://shop_images/before_xpillow_2000_1200.png",
         "before_image_mobile": "shopify://shop_images/before_xpillow_1200_1200.png",
         "after_image": "shopify://shop_images/after_xpillow_2000_1200.png",
         "after_image_mobile": "shopify://shop_images/after_xpillow_1200_1200.png",
         "expand_image": false,
-        "text_position": "start",
+        "text_position": "center",
         "before_after_text_position": "top",
         "before_text": "Before",
         "after_text": "After",
         "drag_initial_position": 80,
-        "background": "#f4efea",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#6d071a",
-        "before_text_color": "#6d071a",
-        "after_text_color": "#6d071a",
-        "drag_cursor_background": "#f4efea",
+        "text_color": "#000000",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
+      }
+    },
+    "multi_column_AzTJFV": {
+      "type": "multi-column",
+      "blocks": {
+        "item_freb3P": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "92%",
+            "heading_tag": "h1",
+            "content": "<p>Reported improved comfort from the first use<br/>Experience noticeable comfort without constant repositioning.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hGbUU9": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "89%",
+            "heading_tag": "h1",
+            "content": "<p>Felt closer to their partner<br/>Designed to enhance connection and shared comfort.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pe4Wh7": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "94%",
+            "heading_tag": "h1",
+            "content": "<p>Said positioning became easier<br/>Find your ideal angle faster with less effort.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_an4eGn": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "91%",
+            "heading_tag": "h1",
+            "content": "<p>Would recommend xPillow to a partner<br/>Loved for its ergonomic support and overall experience.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_freb3P",
+        "item_hGbUU9",
+        "item_pe4Wh7",
+        "item_an4eGn"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Featured content",
+        "content": "<p>Based on an independent user study with 527 participants after 30 days.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_VFLqew": {
@@ -400,7 +506,7 @@
         "item_LaVaQm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_1.png",
+            "image": "shopify://shop_images/avis_1.jpg",
             "column_size": "3",
             "title": "Laura K.",
             "heading_tag": "h5",
@@ -451,9 +557,9 @@
         "subheading": "",
         "title": "They say it better than we do",
         "content": "<h5>⭐ 4.8/5 – Loved by 13,482+ Couples Across the U.S.</h5>",
-        "background": "#f4efea",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#6d071a"
+        "text_color": "#000000"
       }
     },
     "tabs_bwCTBc": {
@@ -692,8 +798,10 @@
     "image_with_text_overlay_zbKRxa",
     "logo_carousel_qUyxyn",
     "featured_product_z3QpdL",
-    "multi_column_H9YNxD",
+    "rich_text_4aJRnh",
+    "multiple_images_with_text_4tXm9R",
     "before_after_image_N8jMhj",
+    "multi_column_AzTJFV",
     "multi_column_VFLqew",
     "tabs_bwCTBc",
     "multi_column_L9KDG6",
