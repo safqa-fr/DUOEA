@@ -559,7 +559,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "autoplay": true,
-        "autoplay_delay": 5,
+        "autoplay_delay": 7,
         "pause_on_hover": true,
         "subheading": "",
         "title": "Tested Results",
