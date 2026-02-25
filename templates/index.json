@@ -503,14 +503,27 @@
     "multi_column_VFLqew": {
       "type": "multi-column",
       "blocks": {
+        "item_CTEqPQ": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Avis 4.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_LaVaQm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_1.jpg",
-            "column_size": "3",
-            "title": "Laura K.",
+            "video": "shopify://files/videos/Avis 1.mp4",
+            "column_size": "4",
+            "title": "",
             "heading_tag": "h5",
-            "content": "<p>“It feels premium, supportive, and actually works. Best purchase we made this year.”</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -519,11 +532,11 @@
         "item_YG7Whm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_2_d24d4ba2-0bcc-47e2-bb52-cd7cf5f65502.jpg",
-            "column_size": "3",
-            "title": "Ashley N.",
+            "video": "shopify://files/videos/Avis 2.mp4",
+            "column_size": "4",
+            "title": "",
             "heading_tag": "h6",
-            "content": "<p>“Super comfortable and feels really well designed.”</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -532,11 +545,11 @@
         "item_VDWm8N": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_3.png",
-            "column_size": "3",
-            "title": "Megan L.",
+            "video": "shopify://files/videos/Avis 3.mp4",
+            "column_size": "4",
+            "title": "",
             "heading_tag": "h6",
-            "content": "<p>“Simple idea but huge impact. Definitely recommend.”</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -544,6 +557,7 @@
         }
       },
       "block_order": [
+        "item_CTEqPQ",
         "item_LaVaQm",
         "item_YG7Whm",
         "item_VDWm8N"
@@ -562,6 +576,36 @@
         "text_color": "#000000"
       }
     },
+    "1771983442dcef319b": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_XMbPbJ": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_XMbPbJ"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_bwCTBc": {
       "type": "tabs",
       "blocks": {
@@ -569,7 +613,7 @@
           "type": "tab",
           "settings": {
             "title": "xPillow® Product Features",
-            "content": "<h3><strong>Ergonomic Design & Angle</strong></h3><ul><li>Unique <strong>27° optimized incline</strong> designed to support natural body positioning<br/></li><li>Ergonomic <strong>wedge-shaped design</strong> for stable, balanced support<br/></li><li>Helps maintain a comfortable angle without slipping or collapsing<br/></li></ul><h3><strong>Foam & Support</strong></h3><ul><li><strong>High-density memory foam core</strong> for firm yet comfortable support<br/></li><li>Contours to the body while maintaining its shape<br/></li><li>Designed to resist sagging, even with repeated use<br/></li></ul><h3><strong>Comfort & Materials</strong></h3><ul><li><strong>Premium soft-touch cover</strong>, breathable and skin-friendly<br/></li><li><strong>Removable, machine-washable cover</strong> for easy care<br/></li><li><strong>Non-slip base</strong> to keep the pillow securely in place<br/></li></ul><h3><strong>Design & Practical Details</strong></h3><ul><li>Discreet, modern design that blends easily into any bedroom<br/></li><li><strong>Integrated side handles</strong> for easy repositioning<br/></li><li>Carefully sized to provide support without being bulky<br/></li></ul><h3><strong>Versatility & Use</strong></h3><ul><li>Suitable for lying or semi-seated positions<br/></li><li>Can be used as a <strong>back, waist, or hip support pillow</strong><br/></li><li>Ideal for relaxation, comfort, and positioning support<br/></li><li>Suitable for different body types<br/></li></ul><h3><strong>Quality & Safety</strong></h3><ul><li>Made from <strong>non-toxic, durable materials</strong><br/></li><li>Designed for <strong>long-lasting comfort and structural stability</strong><br/></li><li>Comfort product – <strong>non-medical use</strong></li></ul>",
+            "content": "<p><strong>Ergonomic Design & Angle</strong></p><ul><li>Unique <strong>27° optimized incline</strong> designed to support natural body positioning<br/></li><li>Ergonomic <strong>wedge-shaped design</strong> for stable, balanced support<br/></li><li>Helps maintain a comfortable angle without slipping or collapsing<br/></li></ul><p><strong>Foam & Support</strong></p><ul><li><strong>High-density memory foam core</strong> for firm yet comfortable support<br/></li><li>Contours to the body while maintaining its shape<br/></li><li>Designed to resist sagging, even with repeated use<br/></li></ul><p><strong>Comfort & Materials</strong></p><ul><li><strong>Premium soft-touch cover</strong>, breathable and skin-friendly<br/></li><li><strong>Removable, machine-washable cover</strong> for easy care<br/></li><li><strong>Non-slip base</strong> to keep the pillow securely in place<br/></li></ul><p><strong>Design & Practical Details</strong></p><ul><li>Discreet, modern design that blends easily into any bedroom<br/></li><li><strong>Integrated side handles</strong> for easy repositioning<br/></li><li>Carefully sized to provide support without being bulky<br/></li></ul><p><strong>Versatility & Use</strong></p><ul><li>Suitable for lying or semi-seated positions<br/></li><li>Can be used as a <strong>back, waist, or hip support pillow</strong><br/></li><li>Ideal for relaxation, comfort, and positioning support<br/></li><li>Suitable for different body types<br/></li></ul><p><strong>Quality & Safety</strong></p><ul><li>Made from <strong>non-toxic, durable materials</strong><br/></li><li>Designed for <strong>long-lasting comfort and structural stability</strong><br/></li><li>Comfort product – <strong>non-medical use</strong></li></ul>",
             "page": ""
           }
         },
@@ -612,9 +656,9 @@
         "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
-        "background": "#f4efea",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#6d071a",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -716,23 +760,23 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "",
-        "content": "<h1><strong>FAQ</strong></h1>",
+        "title": "FAQ",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#f4efea",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#6d071a",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "#f4efea",
-        "button_text_color": "#6d071a",
+        "button_text_color": "#000000",
         "accordion_background": "#f4efea",
-        "accordion_text_color": "#6d071a"
+        "accordion_text_color": "#000000"
       }
     },
     "contact_LWmMLj": {
@@ -740,57 +784,20 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Our customer support is available Monday to Friday: 8am-8:30pm. Average answer time: 24h",
-        "title": "",
-        "content": "<h2><strong>Do you have any question?</strong></h2>",
+        "subheading": "",
+        "title": "Do you have any question?",
+        "content": "<p>Our customer support team is available 7 days a week. Average response time: 24 hours.</p>",
         "text_position": "center",
         "contact_form_size": "small",
-        "background": "#f4efea",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#6d071a",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "#f4efea",
         "contact_text_color": "#6d071a",
         "button_background": "#6d071a",
         "button_text_color": ""
-      }
-    },
-    "17685047346a490066": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_carousel_edxGkF": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-carousel/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "corner-radius": 40,
-            "items-per-view": 2,
-            "items-per-view-mobile": 3,
-            "max-characters": 180,
-            "autoplay": false,
-            "autoplay-delay": 5,
-            "main-color": "#03da8e",
-            "stars-color": "#03da8e",
-            "show-review-text": true,
-            "text-color": "",
-            "reviewer-name-color": "",
-            "verified-badge-color": "",
-            "quote-marks-icon": "style-1",
-            "quote-marks-icon-color": "",
-            "review-background-color": "",
-            "product-ids": ""
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_carousel_edxGkF"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "#f4efea",
-        "background_gradient": "",
-        "text_color": ""
       }
     }
   },
@@ -803,10 +810,10 @@
     "before_after_image_N8jMhj",
     "multi_column_AzTJFV",
     "multi_column_VFLqew",
+    "1771983442dcef319b",
     "tabs_bwCTBc",
     "multi_column_L9KDG6",
     "faq_XmVLY9",
-    "contact_LWmMLj",
-    "17685047346a490066"
+    "contact_LWmMLj"
   ]
 }
