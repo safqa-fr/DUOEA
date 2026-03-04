@@ -106,6 +106,14 @@
             "menu_title": ""
           }
         },
+        "text_c7ddp9": {
+          "type": "text",
+          "settings": {
+            "title": "Contact Us",
+            "content": "<p><strong>Customer Service:</strong></p><p><strong>hello@x-pillow.com</strong></p><p><strong>Business Hours:</strong><br/>Monday to Friday: 9:00 a.m. – 12:00 p.m. and 2:00 p.m. – 6:00 p.m.<br/>Saturday and Sunday: 10:00 a.m. – 12:00 p.m.</p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
@@ -118,6 +126,7 @@
       "block_order": [
         "newsletter",
         "links",
+        "text_c7ddp9",
         "text"
       ],
       "settings": {
