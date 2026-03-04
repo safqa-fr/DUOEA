@@ -94,7 +94,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Get exclusive offers & couples tips 💌",
             "content": ""
           }
         },
@@ -110,7 +110,7 @@
           "type": "text",
           "settings": {
             "title": "Contact Us",
-            "content": "<p><strong>Customer Service: hello@x-pillow.com</strong></p><p><strong>Business Hours:</strong><br/>Monday to Friday: 9:00 a.m. – 12:00 p.m. and 2:00 p.m. – 6:00 p.m.<br/>Saturday and Sunday: 10:00 a.m. – 12:00 p.m.</p>",
+            "content": "<p><strong>Customer Service: hello@x-pillow.com</strong></p><p><strong>Business Hours:</strong><br/>Monday to Friday: 9:00 AM – 6:00 PM EST<br/>Saturday and Sunday: 10:00 AM – 12:00 PM EST</p>",
             "enable_follow_on_shop": true
           }
         }
