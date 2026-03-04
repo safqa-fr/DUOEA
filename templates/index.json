@@ -210,6 +210,12 @@
             "heading_tag": "h2"
           }
         },
+        "text_FiReJk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Feel Closer. Stay Comfortable. Every Time.</p>"
+          }
+        },
         "badges_YQBfQ6": {
           "type": "badges",
           "settings": {}
@@ -293,6 +299,7 @@
         "liquid_JckmaT",
         "loox_reviews_loox_snippets_widget_68Hdra",
         "title_FTaeAC",
+        "text_FiReJk",
         "badges_YQBfQ6",
         "price_yebrkk",
         "liquid_w63nXc",
