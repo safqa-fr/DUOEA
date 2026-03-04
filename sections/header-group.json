@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_Bhwqtn": {
+          "type": "message",
+          "settings": {
+            "text": "Up to 50% Off",
+            "url": ""
+          }
+        },
         "message_Yg7Jy6": {
           "type": "message",
           "settings": {
@@ -34,20 +41,13 @@
             "text": "Free Shipping",
             "url": ""
           }
-        },
-        "message_UNyPi4": {
-          "type": "message",
-          "settings": {
-            "text": "💘 Winter Sale — Up to 50% Off 💘",
-            "url": ""
-          }
         }
       },
       "block_order": [
+        "message_Bhwqtn",
         "message_Yg7Jy6",
         "message_cbMkaC",
-        "message",
-        "message_UNyPi4"
+        "message"
       ],
       "settings": {
         "enable_sticky": false,
