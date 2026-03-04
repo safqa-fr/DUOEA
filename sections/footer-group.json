@@ -113,21 +113,12 @@
             "content": "<p><strong>Customer Service:</strong></p><p><strong>hello@x-pillow.com</strong></p><p><strong>Business Hours:</strong><br/>Monday to Friday: 9:00 a.m. – 12:00 p.m. and 2:00 p.m. – 6:00 p.m.<br/>Saturday and Sunday: 10:00 a.m. – 12:00 p.m.</p>",
             "enable_follow_on_shop": true
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "Contact Us",
-            "content": "<p><strong>Customer Service:</strong><br/><a href=\"mailto:hello@myskineo.com\"><strong>hello@x-pillow.com</strong></a></p><p><strong>Business Hours:</strong><br/>Monday to Friday: 9:00 a.m. – 12:00 p.m. and 2:00 p.m. – 6:00 p.m.<br/>Saturday and Sunday: 10:00 a.m. – 12:00 p.m.</p>",
-            "enable_follow_on_shop": false
-          }
         }
       },
       "block_order": [
         "newsletter",
         "links",
-        "text_c7ddp9",
-        "text"
+        "text_c7ddp9"
       ],
       "settings": {
         "show_social_media": true,
