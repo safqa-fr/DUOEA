@@ -1,10 +1,8 @@
 {% schema %}
 {
-  "name": "Stats carousel",
+  "name": "Logo & Stats carousel",
   "settings": [
     { "type": "color", "id": "bg_color", "label": "Couleur fond", "default": "#ffffff" },
-    { "type": "color", "id": "text_color", "label": "Couleur texte", "default": "#000000" },
-    { "type": "color", "id": "accent_color", "label": "Couleur accent (chiffres)", "default": "#C97A5D" },
     {
       "type": "range",
       "id": "section_height",
@@ -16,126 +14,204 @@
     },
     { "type": "range", "id": "carousel_width", "label": "Largeur (%)", "min": 60, "max": 100, "step": 5, "default": 100 },
     { "type": "range", "id": "speed", "label": "Vitesse (sec)", "min": 10, "max": 70, "step": 5, "default": 30 },
-    { "type": "range", "id": "gap", "label": "Espace (px)", "min": 10, "max": 80, "step": 5, "default": 60 },
-    { "type": "range", "id": "font_size", "label": "Taille texte (px)", "min": 10, "max": 28, "step": 1, "default": 15 },
-    { "type": "range", "id": "accent_size", "label": "Taille accent (px)", "min": 12, "max": 36, "step": 1, "default": 18 }
+    { "type": "range", "id": "gap", "label": "Espace entre items (px)", "min": 10, "max": 80, "step": 5, "default": 40 }
   ],
   "blocks": [
     {
-      "type": "stat",
-      "name": "Stat",
+      "type": "logo",
+      "name": "Logo",
       "settings": [
-        { "type": "text", "id": "accent", "label": "Chiffre / Accent", "default": "782+" },
-        { "type": "text", "id": "label", "label": "Texte descriptif", "default": "Happy Couples" },
-        { "type": "text", "id": "separator", "label": "Séparateur", "default": "·" }
+        { "type": "image_picker", "id": "logo", "label": "Image logo" },
+        {
+          "type": "range",
+          "id": "logo_height",
+          "label": "Hauteur logo (px)",
+          "min": 20,
+          "max": 220,
+          "step": 2,
+          "default": 60
+        },
+        {
+          "type": "range",
+          "id": "logo_max_width",
+          "label": "Largeur max logo (px)",
+          "min": 40,
+          "max": 400,
+          "step": 5,
+          "default": 160
+        }
+      ]
+    },
+    {
+      "type": "stat",
+      "name": "Texte / Stat",
+      "settings": [
+        { "type": "text", "id": "accent", "label": "Chiffre / Accent (ex: 782+)", "default": "782+" },
+        { "type": "color", "id": "accent_color", "label": "Couleur accent", "default": "#C97A5D" },
+        { "type": "range", "id": "accent_size", "label": "Taille accent (px)", "min": 12, "max": 36, "step": 1, "default": 18 },
+        { "type": "checkbox", "id": "accent_bold", "label": "Accent en gras", "default": true },
+        { "type": "text", "id": "label", "label": "Texte descriptif (ex: Happy Couples)", "default": "Happy Couples" },
+        { "type": "color", "id": "label_color", "label": "Couleur texte", "default": "#000000" },
+        { "type": "range", "id": "label_size", "label": "Taille texte (px)", "min": 10, "max": 28, "step": 1, "default": 15 },
+        { "type": "checkbox", "id": "label_bold", "label": "Texte en gras", "default": false },
+        { "type": "text", "id": "separator", "label": "Séparateur après l'item (ex: ·)", "default": "·" },
+        { "type": "color", "id": "separator_color", "label": "Couleur séparateur", "default": "#C97A5D" }
       ]
     }
   ],
-  "presets": [{ "name": "Stats carousel" }]
+  "presets": [{ "name": "Logo & Stats carousel" }]
 }
 {% endschema %}
 
-<div class="sc-wrap"
+<div class="lc-wrap"
      style="
        background: {{ section.settings.bg_color }};
        height: {{ section.settings.section_height }}px;
      ">
 
-  <div class="sc-inner" style="max-width: {{ section.settings.carousel_width }}%;">
+  <div class="lc-inner" style="max-width: {{ section.settings.carousel_width }}%;">
 
-    <div class="sc-track">
+    <div class="lc-track">
+
       {% for block in section.blocks %}
-        <div class="sc-item" {{ block.shopify_attributes }}>
-          {% if block.settings.accent != blank %}
-            <span class="sc-accent" style="font-size: {{ section.settings.accent_size }}px; color: {{ section.settings.accent_color }};">
-              {{ block.settings.accent }}
-            </span>
+        <div class="lc-item" {{ block.shopify_attributes }}>
+
+          {% if block.type == 'logo' %}
+            {% if block.settings.logo != blank %}
+              <img
+                src="{{ block.settings.logo | image_url: width: 900 }}"
+                style="height: {{ block.settings.logo_height }}px; max-width: {{ block.settings.logo_max_width }}px;"
+                loading="lazy"
+                alt=""
+              >
+            {% endif %}
+
+          {% elsif block.type == 'stat' %}
+            {% if block.settings.accent != blank %}
+              <span style="
+                color: {{ block.settings.accent_color }};
+                font-size: {{ block.settings.accent_size }}px;
+                font-weight: {% if block.settings.accent_bold %}700{% else %}400{% endif %};
+                line-height: 1;
+              ">{{ block.settings.accent }}</span>
+            {% endif %}
+
+            {% if block.settings.label != blank %}
+              <span style="
+                color: {{ block.settings.label_color }};
+                font-size: {{ block.settings.label_size }}px;
+                font-weight: {% if block.settings.label_bold %}700{% else %}400{% endif %};
+                line-height: 1;
+                margin-left: 6px;
+              ">{{ block.settings.label }}</span>
+            {% endif %}
+
+            {% if block.settings.separator != blank %}
+              <span style="
+                color: {{ block.settings.separator_color }};
+                font-size: {{ block.settings.accent_size }}px;
+                font-weight: 700;
+                margin-left: 8px;
+              ">{{ block.settings.separator }}</span>
+            {% endif %}
           {% endif %}
-          {% if block.settings.label != blank %}
-            <span class="sc-label" style="font-size: {{ section.settings.font_size }}px; color: {{ section.settings.text_color }};">
-              {{ block.settings.label }}
-            </span>
-          {% endif %}
-          {% if block.settings.separator != blank %}
-            <span class="sc-sep" style="color: {{ section.settings.accent_color }}; font-size: {{ section.settings.accent_size }}px;">
-              {{ block.settings.separator }}
-            </span>
-          {% endif %}
+
         </div>
       {% endfor %}
 
       {% for block in section.blocks %}
-        <div class="sc-item">
-          {% if block.settings.accent != blank %}
-            <span class="sc-accent" style="font-size: {{ section.settings.accent_size }}px; color: {{ section.settings.accent_color }};">
-              {{ block.settings.accent }}
-            </span>
+        <div class="lc-item">
+
+          {% if block.type == 'logo' %}
+            {% if block.settings.logo != blank %}
+              <img
+                src="{{ block.settings.logo | image_url: width: 900 }}"
+                style="height: {{ block.settings.logo_height }}px; max-width: {{ block.settings.logo_max_width }}px;"
+                loading="lazy"
+                alt=""
+              >
+            {% endif %}
+
+          {% elsif block.type == 'stat' %}
+            {% if block.settings.accent != blank %}
+              <span style="
+                color: {{ block.settings.accent_color }};
+                font-size: {{ block.settings.accent_size }}px;
+                font-weight: {% if block.settings.accent_bold %}700{% else %}400{% endif %};
+                line-height: 1;
+              ">{{ block.settings.accent }}</span>
+            {% endif %}
+
+            {% if block.settings.label != blank %}
+              <span style="
+                color: {{ block.settings.label_color }};
+                font-size: {{ block.settings.label_size }}px;
+                font-weight: {% if block.settings.label_bold %}700{% else %}400{% endif %};
+                line-height: 1;
+                margin-left: 6px;
+              ">{{ block.settings.label }}</span>
+            {% endif %}
+
+            {% if block.settings.separator != blank %}
+              <span style="
+                color: {{ block.settings.separator_color }};
+                font-size: {{ block.settings.accent_size }}px;
+                font-weight: 700;
+                margin-left: 8px;
+              ">{{ block.settings.separator }}</span>
+            {% endif %}
           {% endif %}
-          {% if block.settings.label != blank %}
-            <span class="sc-label" style="font-size: {{ section.settings.font_size }}px; color: {{ section.settings.text_color }};">
-              {{ block.settings.label }}
-            </span>
-          {% endif %}
-          {% if block.settings.separator != blank %}
-            <span class="sc-sep" style="color: {{ section.settings.accent_color }}; font-size: {{ section.settings.accent_size }}px;">
-              {{ block.settings.separator }}
-            </span>
-          {% endif %}
+
         </div>
       {% endfor %}
+
     </div>
 
   </div>
 </div>
 
 <style>
-.sc-wrap {
+.lc-wrap {
   overflow: hidden;
   display: flex;
   align-items: center;
 }
 
-.sc-inner {
+.lc-inner {
   margin: auto;
   overflow: hidden;
   width: 100%;
 }
 
-.sc-track {
+.lc-track {
   display: flex;
   align-items: center;
   gap: {{ section.settings.gap }}px;
   width: max-content;
-  animation: sc-scroll linear infinite;
+  animation: scroll linear infinite;
   animation-duration: {{ section.settings.speed }}s;
 }
 
-.sc-item {
+.lc-item {
   flex: 0 0 auto;
   display: flex;
   align-items: center;
-  gap: 8px;
   white-space: nowrap;
 }
 
-.sc-accent {
-  font-weight: 700;
-  line-height: 1;
+.lc-item img {
+  width: auto;
+  object-fit: contain;
+  transition: .25s;
 }
 
-.sc-label {
-  font-weight: 500;
-  line-height: 1;
+.lc-item img:hover {
+  transform: scale(1.05);
 }
 
-.sc-sep {
-  font-weight: 700;
-  line-height: 1;
-  margin-left: 4px;
-}
-
-@keyframes sc-scroll {
+@keyframes scroll {
   from { transform: translateX(0); }
   to { transform: translateX(-50%); }
 }
 </style>
+
