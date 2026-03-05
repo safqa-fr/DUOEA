@@ -78,7 +78,7 @@
         "stat_WmUVmc": {
           "type": "stat",
           "settings": {
-            "accent": "30-Day",
+            "accent": "90-Day",
             "accent_color": "#ffffff",
             "accent_size": 20,
             "accent_bold": true,
