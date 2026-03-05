@@ -63,41 +63,76 @@
         "stat_MEJgUD": {
           "type": "stat",
           "settings": {
-            "accent": "🚚 Free",
-            "label": "Shipping",
-            "separator": "·"
+            "accent": "🚚",
+            "accent_color": "#c97a5d",
+            "accent_size": 20,
+            "accent_bold": true,
+            "label": "Free Shipping",
+            "label_color": "#ffffff",
+            "label_size": 20,
+            "label_bold": false,
+            "separator": "·",
+            "separator_color": "#c97a5d"
           }
         },
         "stat_WmUVmc": {
           "type": "stat",
           "settings": {
             "accent": "30-Day",
+            "accent_color": "#c97a5d",
+            "accent_size": 20,
+            "accent_bold": true,
             "label": "Money-Back Guarantee",
-            "separator": "·"
+            "label_color": "#ffffff",
+            "label_size": 20,
+            "label_bold": false,
+            "separator": "·",
+            "separator_color": "#c97a5d"
           }
         },
         "stat_zxkRnD": {
           "type": "stat",
           "settings": {
-            "accent": "⭐ 4.8/5",
-            "label": "Verified Reviews",
-            "separator": "·"
+            "accent": "⭐",
+            "accent_color": "#c97a5d",
+            "accent_size": 20,
+            "accent_bold": true,
+            "label": "4.8/5 Verified Reviews",
+            "label_color": "#ffffff",
+            "label_size": 20,
+            "label_bold": false,
+            "separator": "·",
+            "separator_color": "#c97a5d"
           }
         },
         "stat_rmTXRT": {
           "type": "stat",
           "settings": {
             "accent": "92%",
+            "accent_color": "#c97a5d",
+            "accent_size": 20,
+            "accent_bold": true,
             "label": "Reported Better Comfort",
-            "separator": "·"
+            "label_color": "#ffffff",
+            "label_size": 20,
+            "label_bold": false,
+            "separator": "·",
+            "separator_color": "#c97a5d"
           }
         },
         "stat_rEytb9": {
           "type": "stat",
           "settings": {
             "accent": "782+",
+            "accent_color": "#c97a5d",
+            "accent_size": 20,
+            "accent_bold": true,
             "label": "Happy Couples",
-            "separator": "·"
+            "label_color": "#ffffff",
+            "label_size": 20,
+            "label_bold": false,
+            "separator": "·",
+            "separator_color": "#c97a5d"
           }
         }
       },
@@ -111,14 +146,10 @@
       "name": "Logo carousel",
       "settings": {
         "bg_color": "#6d071a",
-        "text_color": "#000000",
-        "accent_color": "#c97a5d",
         "section_height": 90,
         "carousel_width": 100,
         "speed": 30,
-        "gap": 40,
-        "font_size": 15,
-        "accent_size": 18
+        "gap": 40
       }
     },
     "featured_product_z3QpdL": {
