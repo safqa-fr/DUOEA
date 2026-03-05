@@ -48,8 +48,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_25_fevr._2026_01_51_41.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_25_fevr._2026_01_52_46.png",
+        "image": "shopify://shop_images/xPillow_intimacy_pillow_for_couples_Desktop.webp",
+        "mobile_image": "shopify://shop_images/xPillow_sweet_spot_pillow_mobile.webp",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
@@ -266,7 +266,7 @@
         "image_DPg4pr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Free_shipping.png",
+            "image": "shopify://shop_images/xPillow_Secure_payment_Free_shipping_Money_back.webp",
             "alignment": "center",
             "max_width": 400
           }
