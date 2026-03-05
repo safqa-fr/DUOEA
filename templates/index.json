@@ -79,7 +79,7 @@
           "type": "stat",
           "settings": {
             "accent": "30-Day",
-            "accent_color": "#c97a5d",
+            "accent_color": "#ffffff",
             "accent_size": 20,
             "accent_bold": true,
             "label": "Money-Back Guarantee",
@@ -109,7 +109,7 @@
           "type": "stat",
           "settings": {
             "accent": "92%",
-            "accent_color": "#c97a5d",
+            "accent_color": "#ffffff",
             "accent_size": 20,
             "accent_bold": true,
             "label": "Reported Better Comfort",
@@ -123,8 +123,8 @@
         "stat_rEytb9": {
           "type": "stat",
           "settings": {
-            "accent": "782+",
-            "accent_color": "#c97a5d",
+            "accent": "13,386+",
+            "accent_color": "#ffffff",
             "accent_size": 20,
             "accent_bold": true,
             "label": "Happy Couples",
