@@ -11,6 +11,81 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "text_with_icons_X3JtNr": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_aHWdkE": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "circle",
+            "icon_background": "rgba(0,0,0,0)",
+            "icon_color": "#6d071a",
+            "title": "Global Insured Shipping",
+            "content": ""
+          }
+        },
+        "item_MgWmGc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "#6d071a",
+            "title": "24/7 Dedicated Support",
+            "content": ""
+          }
+        },
+        "item_za6hG4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "circle",
+            "icon_background": "rgba(0,0,0,0)",
+            "icon_color": "#6d071a",
+            "title": "30-Night Risk-Free Trial",
+            "content": ""
+          }
+        },
+        "item_8nP88P": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "circle",
+            "icon_background": "rgba(0,0,0,0)",
+            "icon_color": "#6d071a",
+            "title": "Secure & Encrypted Checkout",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_aHWdkE",
+        "item_MgWmGc",
+        "item_za6hG4",
+        "item_8nP88P"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h6",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text_with_icons_y8RUUN": {
       "type": "text-with-icons",
       "blocks": {
@@ -193,6 +268,7 @@
     }
   },
   "order": [
+    "text_with_icons_X3JtNr",
     "text_with_icons_y8RUUN",
     "text-with-icons",
     "footer"
