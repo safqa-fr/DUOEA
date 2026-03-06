@@ -339,6 +339,22 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_YXPkz4": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/xPillow_benefit_27_degree_couples_pillow.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "multi_column_aPd3VU": {
       "type": "multi-column",
       "blocks": {
@@ -861,6 +877,7 @@
     "logo_carousel_qUyxyn",
     "featured_product_z3QpdL",
     "rich_text_4aJRnh",
+    "image_with_text_overlay_YXPkz4",
     "multi_column_aPd3VU",
     "multiple_images_with_text_4tXm9R",
     "before_after_image_N8jMhj",
