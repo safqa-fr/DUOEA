@@ -464,6 +464,85 @@
         "input_text_color": ""
       }
     },
+    "multi_column_VFLqew": {
+      "type": "multi-column",
+      "blocks": {
+        "item_CTEqPQ": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/xPillow® – sweet spot pillow.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LaVaQm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/xPillow® – couples positioning pillow.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YG7Whm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/xPillow® – intimacy pillow for couples.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VDWm8N": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/xPillow® – wedge pillow for couples.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_CTEqPQ",
+        "item_LaVaQm",
+        "item_YG7Whm",
+        "item_VDWm8N"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "x-large",
+        "text_alignment": "center",
+        "autoplay": true,
+        "autoplay_delay": 5,
+        "pause_on_hover": true,
+        "subheading": "",
+        "title": "They say it better than we do",
+        "content": "<h5>⭐ 4.8/5 – Loved by 13,386+ Couples Across the U.S.</h5>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000"
+      }
+    },
     "before_after_image_N8jMhj": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -564,85 +643,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "multi_column_VFLqew": {
-      "type": "multi-column",
-      "blocks": {
-        "item_CTEqPQ": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/xPillow® – sweet spot pillow.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_LaVaQm": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/xPillow® – couples positioning pillow.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YG7Whm": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/xPillow® – intimacy pillow for couples.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VDWm8N": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/xPillow® – wedge pillow for couples.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_CTEqPQ",
-        "item_LaVaQm",
-        "item_YG7Whm",
-        "item_VDWm8N"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "x-large",
-        "text_alignment": "center",
-        "autoplay": true,
-        "autoplay_delay": 5,
-        "pause_on_hover": true,
-        "subheading": "",
-        "title": "They say it better than we do",
-        "content": "<h5>⭐ 4.8/5 – Loved by 13,386+ Couples Across the U.S.</h5>",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#000000"
       }
     },
     "1771983442dcef319b": {
@@ -881,9 +881,9 @@
     "multi_column_aPd3VU",
     "multiple_images_with_text_4tXm9R",
     "featured_product_z3QpdL",
+    "multi_column_VFLqew",
     "before_after_image_N8jMhj",
     "multi_column_AzTJFV",
-    "multi_column_VFLqew",
     "1771983442dcef319b",
     "tabs_bwCTBc",
     "multi_column_L9KDG6",
