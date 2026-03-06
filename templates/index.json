@@ -152,6 +152,157 @@
         "gap": 40
       }
     },
+    "rich_text_4aJRnh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gLp8D4": {
+          "type": "heading",
+          "settings": {
+            "text": "Feel Closer. Stay Comfortable. Every Time.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_gLp8D4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_YXPkz4": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/xPillow_benefit_27_degree_couples_pillow.webp",
+        "mobile_image": "shopify://shop_images/xPillow_benefit_27_degree_couples_pillow.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_aPd3VU": {
+      "type": "multi-column",
+      "blocks": {
+        "item_EkDNna": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/xPillow_27_degree_couples_pillow.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>✓ FEEL CLOSER INSTANTLY</strong><br/>The 27° ergonomic couples positioning pillow brings partners closer naturally for a deeper, more connected experience.</p><p><strong>✓ FIND YOUR PERFECT ANGLE</strong><br/>Our memory foam wedge pillow helps you achieve the ideal position effortlessly — no constant adjustments needed.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rD6fwc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/xPillow_ergonomic_intimacy_pillow.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>✓ MOVE FREELY WITH SUPPORT</strong><br/>Move naturally while our intimacy pillow maintains stable, reliable support at all times — no slipping, no shifting.<br/><br/><strong>✓ TARGETED SUPPORT WHERE NEEDED</strong><br/>Precision ergonomic support exactly where your body needs it most — designed for couples comfort and positioning.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8gagP3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/xPillow_memory_foam_wedge_pillow_couples.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>✓ FEWER ADJUSTMENTS NEEDED</strong><br/>The couples wedge pillow reduces repositioning so your experience stays smooth, comfortable and uninterrupted.</p><p><strong>✓ TRUE ERGONOMIC SUPPORT</strong><br/>Even pressure distribution from high-density memory foam helps reduce discomfort and improves overall couples comfort.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_EkDNna",
+        "item_rD6fwc",
+        "item_8gagP3"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "autoplay": true,
+        "autoplay_delay": 7,
+        "pause_on_hover": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multiple_images_with_text_4tXm9R": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_f69rha": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "",
+            "content": "<p><strong>✓ FEEL CLOSER INSTANTLY</strong><br/>Designed to bring partners closer naturally for a more connected experience.</p><p><strong>✓ FIND YOUR PERFECT ANGLE</strong><br/>Helps you achieve the ideal position effortlessly without constant adjustments.</p><p><strong>✓ MOVE FREELY WITH SUPPORT</strong><br/>Move naturally while maintaining stable, reliable support at all times.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_66CP8e": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "",
+            "content": "<p><strong>✓ TARGETED SUPPORT WHERE NEEDED</strong><br/>Provides precise support exactly where your body needs it most.</p><p><strong>✓ FEWER ADJUSTMENTS NEEDED</strong><br/>Reduces the need to reposition so the experience stays smooth and uninterrupted.</p><p><strong>✓ TRUE ERGONOMIC SUPPORT</strong><br/>Even pressure distribution helps reduce discomfort and improves overall comfort.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_f69rha",
+        "item_66CP8e"
+      ],
+      "disabled": true,
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "featured_product_z3QpdL": {
       "type": "featured-product",
       "blocks": {
@@ -311,157 +462,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "rich_text_4aJRnh": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_gLp8D4": {
-          "type": "heading",
-          "settings": {
-            "text": "Feel Closer. Stay Comfortable. Every Time.",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_gLp8D4"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_YXPkz4": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/xPillow_benefit_27_degree_couples_pillow.webp",
-        "mobile_image": "shopify://shop_images/xPillow_benefit_27_degree_couples_pillow.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "multi_column_aPd3VU": {
-      "type": "multi-column",
-      "blocks": {
-        "item_EkDNna": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/xPillow_27_degree_couples_pillow.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p><strong>✓ FEEL CLOSER INSTANTLY</strong><br/>The 27° ergonomic couples positioning pillow brings partners closer naturally for a deeper, more connected experience.</p><p><strong>✓ FIND YOUR PERFECT ANGLE</strong><br/>Our memory foam wedge pillow helps you achieve the ideal position effortlessly — no constant adjustments needed.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_rD6fwc": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/xPillow_ergonomic_intimacy_pillow.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p><strong>✓ MOVE FREELY WITH SUPPORT</strong><br/>Move naturally while our intimacy pillow maintains stable, reliable support at all times — no slipping, no shifting.<br/><br/><strong>✓ TARGETED SUPPORT WHERE NEEDED</strong><br/>Precision ergonomic support exactly where your body needs it most — designed for couples comfort and positioning.<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8gagP3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/xPillow_memory_foam_wedge_pillow_couples.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p><strong>✓ FEWER ADJUSTMENTS NEEDED</strong><br/>The couples wedge pillow reduces repositioning so your experience stays smooth, comfortable and uninterrupted.</p><p><strong>✓ TRUE ERGONOMIC SUPPORT</strong><br/>Even pressure distribution from high-density memory foam helps reduce discomfort and improves overall couples comfort.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_EkDNna",
-        "item_rD6fwc",
-        "item_8gagP3"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "autoplay": true,
-        "autoplay_delay": 7,
-        "pause_on_hover": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multiple_images_with_text_4tXm9R": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_f69rha": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "",
-            "content": "<p><strong>✓ FEEL CLOSER INSTANTLY</strong><br/>Designed to bring partners closer naturally for a more connected experience.</p><p><strong>✓ FIND YOUR PERFECT ANGLE</strong><br/>Helps you achieve the ideal position effortlessly without constant adjustments.</p><p><strong>✓ MOVE FREELY WITH SUPPORT</strong><br/>Move naturally while maintaining stable, reliable support at all times.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_66CP8e": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "",
-            "content": "<p><strong>✓ TARGETED SUPPORT WHERE NEEDED</strong><br/>Provides precise support exactly where your body needs it most.</p><p><strong>✓ FEWER ADJUSTMENTS NEEDED</strong><br/>Reduces the need to reposition so the experience stays smooth and uninterrupted.</p><p><strong>✓ TRUE ERGONOMIC SUPPORT</strong><br/>Even pressure distribution helps reduce discomfort and improves overall comfort.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_f69rha",
-        "item_66CP8e"
-      ],
-      "disabled": true,
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "before_after_image_N8jMhj": {
@@ -876,11 +876,11 @@
   "order": [
     "image_with_text_overlay_zbKRxa",
     "logo_carousel_qUyxyn",
-    "featured_product_z3QpdL",
     "rich_text_4aJRnh",
     "image_with_text_overlay_YXPkz4",
     "multi_column_aPd3VU",
     "multiple_images_with_text_4tXm9R",
+    "featured_product_z3QpdL",
     "before_after_image_N8jMhj",
     "multi_column_AzTJFV",
     "multi_column_VFLqew",
