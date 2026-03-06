@@ -11,6 +11,67 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "text_with_icons_y8RUUN": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_8CegMk": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": ""
+          }
+        },
+        "item_kkhyXy": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-operator",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": ""
+          }
+        },
+        "item_hb8znC": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_8CegMk",
+        "item_kkhyXy",
+        "item_hb8znC"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -132,6 +193,7 @@
     }
   },
   "order": [
+    "text_with_icons_y8RUUN",
     "text-with-icons",
     "footer"
   ]
